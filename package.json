@@ -1,0 +1,18 @@
+{
+  "name": "github-contributor-sites",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Generate static sites for GitHub contributors",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "generate": "node dist/generate_site.js"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "recharts": "^2.12.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.19.12"
+  }
+}

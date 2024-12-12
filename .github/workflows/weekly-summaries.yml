@@ -1,0 +1,58 @@
+name: Weekly Contributor Update
+
+on:
+  schedule:
+    - cron: '0 19 * * 5'  # Run at 2:00 PM EST (19:00 UTC) every Friday
+  workflow_dispatch:  # Allow manual triggers
+
+# Add permissions block at workflow level
+permissions:
+  contents: write
+
+jobs:
+  update-contributors:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+    
+    - name: Install Python dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install openai requests
+    
+    - name: Install Node dependencies
+      run: npm ci
+    
+    - name: Fetch latest contributor data
+      env:
+        GH_ACCESS_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
+      run: |
+        python scripts/fetch_contributors_all.py
+    
+    - name: Build and generate site
+      run: |
+        npm run build
+        npm run generate
+    
+    - name: Commit and push if changed
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add data/
+        git add profiles/
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update contributor data and summaries [skip ci]" && git push)
+      env:
+        GITHUB_TOKEN: ${{ github.token }}
