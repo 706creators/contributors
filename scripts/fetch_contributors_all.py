@@ -9,6 +9,7 @@ def main():
     for repo in repos:
         logging.info(f"Fetching contributors for {repo['org']}/{repo['repo']}")
         os.system(f"mkdir -p ./data/{repo['repo']}")
+        os.system(f"mkdir -p ./profiles/{repo['repo']}")
         logging.info(f"Fetching contributors for {repo['org']}/{repo['repo']}")
         os.system(f"python scripts/fetch_contributors.py {repo['org']} {repo['repo']}  -o ./data/{repo['repo']} -f")
         logging.info(f"Generating summaries for {repo['org']}/{repo['repo']}")
