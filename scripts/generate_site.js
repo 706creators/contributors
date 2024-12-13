@@ -169,7 +169,7 @@ const template = (content, data) => `
 </html>`;
 
 const generateSite = async (contributorsData, repo) => {
-    console.log(contributorsData,repo);
+    console.log("generateSite with repo : ",repo);
     const outputDir = path.join(path.dirname(__dirname), 'profiles', repo);
 
     try {
