@@ -263,7 +263,7 @@ console.log("Generating repos list index.html ===== ");
 const repos = JSON.parse(fs_default.readFileSync(path.join(path.dirname(__dirname), 'repos.json'), 'utf-8'));
 
 const reposHTML = repos.map(repo => `
-    <a href="${repo.repo}/index.html" class="block p-6 bg-white dark:bg-gray-800 rounded-lg shadow hover:shadow-lg transition-shadow relative">
+    <a href="profiles/${repo.repo}/index.html" class="block p-6 bg-white dark:bg-gray-800 rounded-lg shadow hover:shadow-lg transition-shadow relative">
         <h2 class="text-xl font-semibold text-gray-900 dark:text-white">${repo.repo}</h2>
     </a>
 `).join('');
