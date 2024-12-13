@@ -4,6 +4,7 @@ import fs from 'fs/promises';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import ContributorProfile from './components/ContributorProfile.js';
+import fs_default from "fs";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -168,6 +169,7 @@ const template = (content, data) => `
 </html>`;
 
 const generateSite = async (contributorsData, repo) => {
+    console.log(contributorsData,repo);
     const outputDir = path.join(path.dirname(__dirname), 'profiles', repo);
 
     try {
@@ -248,10 +250,41 @@ const generateSite = async (contributorsData, repo) => {
 
 
 // loop data/*/contributors.json
-const dataDirs = fs.readdirSync(path.join(path.dirname(__dirname), 'data'));
+const dataDirs = fs_default.readdirSync(path.join(path.dirname(__dirname), 'data'));
 for (const dataDir of dataDirs) {
     const contributorsData = JSON.parse(
         await fs.readFile(path.join(path.dirname(__dirname), 'data', dataDir, 'contributors.json'), 'utf-8')
     );
     generateSite(contributorsData, dataDir);
 }
+
+
+console.log("Generating repos list index.html ===== ");
+const repos = JSON.parse(fs_default.readFileSync(path.join(path.dirname(__dirname), 'repos.json'), 'utf-8'));
+
+const reposHTML = repos.map(repo => `
+    <a href="${repo.repo}/index.html" class="block p-6 bg-white dark:bg-gray-800 rounded-lg shadow hover:shadow-lg transition-shadow relative">
+        <h2 class="text-xl font-semibold text-gray-900 dark:text-white">${repo.repo}</h2>
+    </a>
+`).join('');
+
+const indexContent = `
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Contributors</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-50 dark:bg-gray-900">
+    <div class="max-w-7xl mx-auto p-8">
+        <h1 class="text-3xl font-bold mb-8 text-gray-900 dark:text-white">GitHub Contributors</h1>
+        ${reposHTML}
+    </div>
+</body>
+</html>`;
+
+await fs.writeFile(path.join('profiles', 'index.html'), indexContent);
+
+console.log('Site generation complete! Open ./profiles/index.html to view the result.');
