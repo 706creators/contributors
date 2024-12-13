@@ -53,6 +53,7 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git add data/
         git add profiles/
+        git add index.html
         git diff --quiet && git diff --staged --quiet || (git commit -m "Update contributor data and summaries [skip ci]" && git push)
       env:
         GITHUB_TOKEN: ${{ github.token }}
