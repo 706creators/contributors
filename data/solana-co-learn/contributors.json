@@ -1,0 +1,3312 @@
+[
+  {
+    "contributor": "v1xingyue",
+    "avatar_url": "https://avatars.githubusercontent.com/u/974169?v=4",
+    "activity": {
+      "code": {
+        "commits": [
+          {
+            "sha": "6af66f4f17807de452cbc331734946d14051f842",
+            "date": "2024-09-27T12:25:52Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/6af66f4f17807de452cbc331734946d14051f842"
+          },
+          {
+            "sha": "8ece7724405f659f1d7636c0ab7ba5adaf28e12f",
+            "date": "2024-09-27T12:23:38Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/8ece7724405f659f1d7636c0ab7ba5adaf28e12f"
+          },
+          {
+            "sha": "496deff8813983777dfc4888786b677f437b65a3",
+            "date": "2024-09-26T00:25:09Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/496deff8813983777dfc4888786b677f437b65a3"
+          },
+          {
+            "sha": "4b7d2c81a0fc9905c38ac14ff6ffd34f0e8175a7",
+            "date": "2024-09-23T05:08:30Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/4b7d2c81a0fc9905c38ac14ff6ffd34f0e8175a7"
+          },
+          {
+            "sha": "9dbdbc11a28e66ece525a5374b902425d98fcfe0",
+            "date": "2024-09-23T05:08:08Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/9dbdbc11a28e66ece525a5374b902425d98fcfe0"
+          },
+          {
+            "sha": "7fd6072f3d7ccfe9f9011cdff35012a782c512ef",
+            "date": "2024-09-21T11:30:24Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/7fd6072f3d7ccfe9f9011cdff35012a782c512ef"
+          },
+          {
+            "sha": "9780041d2b8e9fdf6d6bc07f6a1775539e99d652",
+            "date": "2024-09-13T01:56:09Z",
+            "message": "update image.png",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/9780041d2b8e9fdf6d6bc07f6a1775539e99d652"
+          },
+          {
+            "sha": "f5f66a95fa60985f6b5fe2c9f6f8c6ef90ca0dd2",
+            "date": "2024-09-12T00:23:09Z",
+            "message": "image bigger",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/f5f66a95fa60985f6b5fe2c9f6f8c6ef90ca0dd2"
+          },
+          {
+            "sha": "5e3415e0f4e5f44f00f84ebac124274278276fcf",
+            "date": "2024-09-12T00:22:18Z",
+            "message": "make it beauty",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/5e3415e0f4e5f44f00f84ebac124274278276fcf"
+          },
+          {
+            "sha": "30ca40299ccd4697cea3dbb2bc39e38d44271428",
+            "date": "2024-09-11T16:15:37Z",
+            "message": "add links",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/30ca40299ccd4697cea3dbb2bc39e38d44271428"
+          },
+          {
+            "sha": "1cc586decf782b1f939ca4f52e82956aabaa371e",
+            "date": "2024-09-11T16:08:53Z",
+            "message": "more about anchor",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/1cc586decf782b1f939ca4f52e82956aabaa371e"
+          },
+          {
+            "sha": "c63e2d0060b171a59ca563391a7ba4fb77d9eca9",
+            "date": "2024-09-11T16:05:10Z",
+            "message": "links split line",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/c63e2d0060b171a59ca563391a7ba4fb77d9eca9"
+          },
+          {
+            "sha": "185b5a5b652659f5723b2c431cb88374af9857d5",
+            "date": "2024-09-11T16:03:35Z",
+            "message": "add tips",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/185b5a5b652659f5723b2c431cb88374af9857d5"
+          },
+          {
+            "sha": "0d38be3613586fe008a596b212a8f6e0fade3ea2",
+            "date": "2024-09-11T10:54:12Z",
+            "message": "some modify",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/0d38be3613586fe008a596b212a8f6e0fade3ea2"
+          },
+          {
+            "sha": "3489c9d99a0b9b7f8c2da04c61fea76bf4b53140",
+            "date": "2024-09-11T10:46:49Z",
+            "message": "update image",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/3489c9d99a0b9b7f8c2da04c61fea76bf4b53140"
+          },
+          {
+            "sha": "8599276091933ce1d76751515196f5a07a229211",
+            "date": "2024-09-11T10:44:19Z",
+            "message": "update image",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/8599276091933ce1d76751515196f5a07a229211"
+          },
+          {
+            "sha": "480ed3f6f95ba381ade0da6e28f49eb46526c028",
+            "date": "2024-09-11T10:41:11Z",
+            "message": "some documents",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/480ed3f6f95ba381ade0da6e28f49eb46526c028"
+          },
+          {
+            "sha": "b1265c0ae06e84ef5cda99c9ed2d4f43137f6e9b",
+            "date": "2024-09-10T09:14:10Z",
+            "message": "co-learn-3",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/b1265c0ae06e84ef5cda99c9ed2d4f43137f6e9b"
+          },
+          {
+            "sha": "1f537a1caf30c1a91e72c567e1b99d1ff05cc332",
+            "date": "2024-09-10T09:13:24Z",
+            "message": "co-learn-3",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/1f537a1caf30c1a91e72c567e1b99d1ff05cc332"
+          },
+          {
+            "sha": "01c167368ef01f9322135866221e81bdfd602434",
+            "date": "2024-03-21T01:52:15Z",
+            "message": "Merge pull request #54 from Whitehare2023/solana-dev-course-zh\n\n\u6dfb\u52a0\u4e2d\u6587\u7248\u8bb2\u4e49",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/01c167368ef01f9322135866221e81bdfd602434"
+          },
+          {
+            "sha": "850ac96d03841cd4457c95ae4dc6da0967da7a08",
+            "date": "2024-03-01T01:12:21Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/850ac96d03841cd4457c95ae4dc6da0967da7a08"
+          },
+          {
+            "sha": "7226dfe70fc873fc01a11ee55ee0c23e2c32d155",
+            "date": "2024-02-22T10:25:18Z",
+            "message": "add module",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/7226dfe70fc873fc01a11ee55ee0c23e2c32d155"
+          },
+          {
+            "sha": "e704a9d41b1889f5a8fae1ab2e64c7cb370501c0",
+            "date": "2024-02-21T07:43:51Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/e704a9d41b1889f5a8fae1ab2e64c7cb370501c0"
+          },
+          {
+            "sha": "a9f0e10bc71671ac82894e92163b9d263f424ae8",
+            "date": "2024-02-21T05:49:11Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/a9f0e10bc71671ac82894e92163b9d263f424ae8"
+          },
+          {
+            "sha": "6343178669cd59e59410f8ebe6cfbaa976027ebf",
+            "date": "2024-02-21T05:42:14Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/6343178669cd59e59410f8ebe6cfbaa976027ebf"
+          },
+          {
+            "sha": "5abc230098b23d186c9b121291b88239a1b67a4e",
+            "date": "2023-09-15T10:55:38Z",
+            "message": "add search test",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/5abc230098b23d186c9b121291b88239a1b67a4e"
+          },
+          {
+            "sha": "4f4c47d15eb3a8ee1367e174bd4f7e0dca061d24",
+            "date": "2023-09-12T11:31:25Z",
+            "message": "\u8865\u5145 createMint \u53c2\u6570",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/4f4c47d15eb3a8ee1367e174bd4f7e0dca061d24"
+          },
+          {
+            "sha": "4d40a7199283e58a16c81d947cfe17b0f1de664e",
+            "date": "2023-09-05T01:35:41Z",
+            "message": "bug",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/4d40a7199283e58a16c81d947cfe17b0f1de664e"
+          },
+          {
+            "sha": "0a10a67a82de196e6f10270269bbf5e8e0230221",
+            "date": "2023-08-30T01:25:04Z",
+            "message": "\u6dfb\u52a0\u90e8\u5206\u8bf4\u660e",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/0a10a67a82de196e6f10270269bbf5e8e0230221"
+          },
+          {
+            "sha": "949d0318ae73da97f209939ccb555c6df4321a12",
+            "date": "2023-08-29T11:15:21Z",
+            "message": "\u53c2\u8003\u8d44\u6599",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/949d0318ae73da97f209939ccb555c6df4321a12"
+          },
+          {
+            "sha": "8eddb0d3296b7b33c84373d867b36ad3e862455d",
+            "date": "2023-08-29T11:12:24Z",
+            "message": "bug",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/8eddb0d3296b7b33c84373d867b36ad3e862455d"
+          },
+          {
+            "sha": "9308f5b71962626d8eedbd9e74e2a5c1c6a52f63",
+            "date": "2023-08-29T10:11:45Z",
+            "message": "\u6dfb\u52a0\u4f7f\u7528\u5b9e\u4f8b\u4ee3\u7801",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/9308f5b71962626d8eedbd9e74e2a5c1c6a52f63"
+          },
+          {
+            "sha": "d5717474149fee0b2084e72659c75e578ce2a08d",
+            "date": "2023-08-29T06:57:46Z",
+            "message": "add author \u548c ada \u4f7f\u7528\u4ee3\u7801",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/d5717474149fee0b2084e72659c75e578ce2a08d"
+          },
+          {
+            "sha": "a47df49edd57f9acede7e0e821aa92a20fa79b8f",
+            "date": "2023-08-29T00:22:22Z",
+            "message": "move to blog",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/a47df49edd57f9acede7e0e821aa92a20fa79b8f"
+          },
+          {
+            "sha": "171df41e83c1e0a4d9ee54815547bf3c6d4ae837",
+            "date": "2023-08-28T23:17:59Z",
+            "message": "ada and pda",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/171df41e83c1e0a4d9ee54815547bf3c6d4ae837"
+          },
+          {
+            "sha": "7484d110c0e6f4dd1f22d210ef8d82751944f0aa",
+            "date": "2023-08-28T00:26:06Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/7484d110c0e6f4dd1f22d210ef8d82751944f0aa"
+          },
+          {
+            "sha": "cafaf11d334ad30e5802312e6e5d1b8e2d4019a0",
+            "date": "2023-08-25T01:48:58Z",
+            "message": "Merge branch 'CreatorsDAO:main' into main",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/cafaf11d334ad30e5802312e6e5d1b8e2d4019a0"
+          },
+          {
+            "sha": "d20cc5da748dc236813dda0c0c145a442b3daee5",
+            "date": "2023-08-25T01:48:32Z",
+            "message": "Merge pull request #1 from v1xingyue/v1xingyue-patch-1\n\n\u7f51\u7edc\u4f7f\u7528\u5efa\u8bae",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/d20cc5da748dc236813dda0c0c145a442b3daee5"
+          },
+          {
+            "sha": "33404135d19b75ca38eaad3ee8e2859f9787d237",
+            "date": "2023-08-25T01:45:33Z",
+            "message": "\u7f51\u7edc\u4f7f\u7528\u5efa\u8bae",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/33404135d19b75ca38eaad3ee8e2859f9787d237"
+          },
+          {
+            "sha": "b4283a36f2bf1f96a21102b4c1232f844f954668",
+            "date": "2023-08-24T11:04:07Z",
+            "message": "\u6dfb\u52a0solana \u7a0b\u5e8f\u5b9e\u4f8b",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/b4283a36f2bf1f96a21102b4c1232f844f954668"
+          },
+          {
+            "sha": "6898383a979846a7db468bd7fca62f05f2694ca2",
+            "date": "2023-08-23T09:08:32Z",
+            "message": "Update docusaurus.config.js\n\nadd edit link",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/6898383a979846a7db468bd7fca62f05f2694ca2"
+          },
+          {
+            "sha": "d95866994d5db64dccf1d7fda241a3f1aba975c2",
+            "date": "2023-08-16T01:33:20Z",
+            "message": "Update github-page.yml\n\n\u53ea\u548c main \u5206\u652f\u5173\u8054",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/d95866994d5db64dccf1d7fda241a3f1aba975c2"
+          },
+          {
+            "sha": "c519c1ac1b30c82ebe0cb8db37204b077f56c102",
+            "date": "2023-08-15T01:05:47Z",
+            "message": "merge all",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/c519c1ac1b30c82ebe0cb8db37204b077f56c102"
+          },
+          {
+            "sha": "ad76bade3068320f057db0793dacc2eada07cc59",
+            "date": "2023-08-15T00:23:48Z",
+            "message": "Merge branch 'main' into main",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/ad76bade3068320f057db0793dacc2eada07cc59"
+          },
+          {
+            "sha": "6028e9805390bf3dfe4f94526cf1890673969a72",
+            "date": "2023-08-15T00:20:56Z",
+            "message": "\u4fee\u6539\u8fde\u63a5\u94b1\u5305",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/6028e9805390bf3dfe4f94526cf1890673969a72"
+          },
+          {
+            "sha": "9987f23a673fe072cc6cf5fe2c71b798f51d03a1",
+            "date": "2023-08-10T00:28:40Z",
+            "message": "Merge branch 'CreatorsDAO:main' into main",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/9987f23a673fe072cc6cf5fe2c71b798f51d03a1"
+          },
+          {
+            "sha": "96a70e2667d97bedc214aba88dc2f7e384bb738a",
+            "date": "2023-08-09T05:55:11Z",
+            "message": "tips repair",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/96a70e2667d97bedc214aba88dc2f7e384bb738a"
+          },
+          {
+            "sha": "e4f2945084b4eff7e44593f6ae381fa564aaf390",
+            "date": "2023-08-09T05:29:37Z",
+            "message": "\u5f00\u53d1\u73af\u5883\u914d\u7f6e\u4fee\u6539",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/e4f2945084b4eff7e44593f6ae381fa564aaf390"
+          },
+          {
+            "sha": "d3e491f024ac28fea5f66dcb9921d4b7b0668051",
+            "date": "2023-08-09T03:39:52Z",
+            "message": "Create github-page.yml",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/d3e491f024ac28fea5f66dcb9921d4b7b0668051"
+          }
+        ],
+        "pull_requests": [
+          {
+            "number": 39,
+            "title": "add search test",
+            "state": "closed",
+            "created_at": "2023-09-15T10:58:12Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/39",
+            "labels": [],
+            "comments": 0
+          },
+          {
+            "number": 38,
+            "title": "\u8865\u5145 createMint \u53c2\u6570",
+            "state": "closed",
+            "created_at": "2023-09-12T11:31:35Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/38",
+            "labels": [],
+            "comments": 0
+          },
+          {
+            "number": 34,
+            "title": "bug",
+            "state": "closed",
+            "created_at": "2023-09-05T01:35:51Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/34",
+            "labels": [],
+            "comments": 0
+          },
+          {
+            "number": 28,
+            "title": "ada and pda",
+            "state": "closed",
+            "created_at": "2023-08-28T23:18:13Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/28",
+            "labels": [],
+            "comments": 8
+          },
+          {
+            "number": 25,
+            "title": "Update README.md",
+            "state": "closed",
+            "created_at": "2023-08-28T00:27:31Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/25",
+            "labels": [],
+            "comments": 0
+          },
+          {
+            "number": 24,
+            "title": "\u8bbe\u7f6e devnet",
+            "state": "closed",
+            "created_at": "2023-08-27T10:11:19Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/24",
+            "labels": [],
+            "comments": 0
+          },
+          {
+            "number": 21,
+            "title": "\u7f51\u7edc\u4f7f\u7528\u5efa\u8bae",
+            "state": "closed",
+            "created_at": "2023-08-25T01:49:33Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/21",
+            "labels": [],
+            "comments": 0
+          },
+          {
+            "number": 20,
+            "title": "\u6dfb\u52a0solana \u7a0b\u5e8f\u5b9e\u4f8b",
+            "state": "closed",
+            "created_at": "2023-08-25T00:43:28Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/20",
+            "labels": [],
+            "comments": 0
+          },
+          {
+            "number": 13,
+            "title": "Update docusaurus.config.js",
+            "state": "closed",
+            "created_at": "2023-08-23T09:08:43Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/13",
+            "labels": [],
+            "comments": 0
+          },
+          {
+            "number": 6,
+            "title": "Update github-page.yml",
+            "state": "closed",
+            "created_at": "2023-08-16T01:33:31Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/6",
+            "labels": [],
+            "comments": 0
+          },
+          {
+            "number": 5,
+            "title": "\u4fee\u6539\u8fde\u63a5\u94b1\u5305",
+            "state": "closed",
+            "created_at": "2023-08-15T00:22:09Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/5",
+            "labels": [],
+            "comments": 0
+          },
+          {
+            "number": 4,
+            "title": "\u5f00\u53d1\u73af\u5883\u914d\u7f6e\u4fee\u6539",
+            "state": "closed",
+            "created_at": "2023-08-09T05:31:06Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/4",
+            "labels": [],
+            "comments": 0
+          },
+          {
+            "number": 3,
+            "title": "Create github-page.yml",
+            "state": "closed",
+            "created_at": "2023-08-09T03:40:18Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/3",
+            "labels": [],
+            "comments": 0
+          }
+        ],
+        "total_commits": 49,
+        "total_prs": 13
+      },
+      "issues": {
+        "opened": [],
+        "total_opened": 0
+      },
+      "engagement": {
+        "comments": [
+          {
+            "id": 1696553029,
+            "body": "\u5148\u5199\u4e00\u534a\uff0c\u7559\u4e2a\u5751 ",
+            "created_at": "2023-08-28T23:18:40Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/28#issuecomment-1696553029",
+            "type": "pr",
+            "issue_number": "28"
+          },
+          {
+            "id": 1696594510,
+            "body": "> \r\n\r\n\u53ef\u4ee5 \uff0c \u63d0\u4ea4\u7684\u65f6\u5019\u653e\u3002 ",
+            "created_at": "2023-08-29T00:18:57Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/28#issuecomment-1696594510",
+            "type": "pr",
+            "issue_number": "28"
+          },
+          {
+            "id": 1721098197,
+            "body": "https://github.com/CreatorsDAO/creatorsdao.github.io/pull/39\n\n\u641c\u7d22\u529f\u80fd\u5df2\u53ef\u7528",
+            "created_at": "2023-09-15T11:12:22Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/issues/29#issuecomment-1721098197",
+            "type": "issue",
+            "issue_number": "29"
+          }
+        ],
+        "total_comments": 3
+      }
+    },
+    "score": 93,
+    "score_breakdown": {
+      "merged_prs": 91,
+      "issues": 0,
+      "pr_commits": 1,
+      "pr_reviews": 0,
+      "comments": 1.5,
+      "total": 93.5
+    }
+  },
+  {
+    "contributor": "yct21",
+    "avatar_url": "https://avatars.githubusercontent.com/u/3829004?v=4",
+    "activity": {
+      "code": {
+        "commits": [
+          {
+            "sha": "7bbeae3a7a2bb7231df0de780f5ae852af6e94a9",
+            "date": "2023-09-21T14:09:28Z",
+            "message": "fix typo",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/7bbeae3a7a2bb7231df0de780f5ae852af6e94a9"
+          },
+          {
+            "sha": "778cf7c67c9b0f1349e63e9adb63eee7c3798c5a",
+            "date": "2023-09-07T00:44:46Z",
+            "message": "Importing web3.js in index.ts",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/778cf7c67c9b0f1349e63e9adb63eee7c3798c5a"
+          },
+          {
+            "sha": "9db92feba481004bdf4a7cb9effb1b570c02e497",
+            "date": "2023-08-31T02:34:30Z",
+            "message": "Correct name of BackpackWalletAdapter",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/9db92feba481004bdf4a7cb9effb1b570c02e497"
+          }
+        ],
+        "pull_requests": [
+          {
+            "number": 41,
+            "title": "fix typo",
+            "state": "closed",
+            "created_at": "2023-09-21T14:10:26Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/41",
+            "labels": [],
+            "comments": 0
+          },
+          {
+            "number": 35,
+            "title": "Importing web3.js in index.ts",
+            "state": "closed",
+            "created_at": "2023-09-07T00:52:27Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/35",
+            "labels": [],
+            "comments": 0
+          },
+          {
+            "number": 32,
+            "title": "Correct name of BackpackWalletAdapter",
+            "state": "closed",
+            "created_at": "2023-08-31T02:41:37Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/32",
+            "labels": [],
+            "comments": 0
+          }
+        ],
+        "total_commits": 3,
+        "total_prs": 3
+      },
+      "issues": {
+        "opened": [],
+        "total_opened": 0
+      },
+      "engagement": {
+        "comments": [],
+        "total_comments": 0
+      }
+    },
+    "score": 21,
+    "score_breakdown": {
+      "merged_prs": 21,
+      "issues": 0,
+      "pr_commits": 0,
+      "pr_reviews": 0,
+      "comments": 0.0,
+      "total": 21.0
+    }
+  },
+  {
+    "contributor": "Manuel-yang",
+    "avatar_url": "https://avatars.githubusercontent.com/u/66017597?v=4",
+    "activity": {
+      "code": {
+        "commits": [
+          {
+            "sha": "43584ec78c2a0cb0dc98b896d606f25abe367a1f",
+            "date": "2023-08-28T10:47:49Z",
+            "message": "add: add nft marketplace project link",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/43584ec78c2a0cb0dc98b896d606f25abe367a1f"
+          },
+          {
+            "sha": "aefa5c464fe0a800d8eb0319265c952c21e8ddb5",
+            "date": "2023-08-28T10:45:37Z",
+            "message": "add: add solana nft staking project",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/aefa5c464fe0a800d8eb0319265c952c21e8ddb5"
+          },
+          {
+            "sha": "e8d983d4b4657535b4b4691bcfdc15aa871b7dee",
+            "date": "2023-08-28T10:43:12Z",
+            "message": "add: add solana project demo",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/e8d983d4b4657535b4b4691bcfdc15aa871b7dee"
+          },
+          {
+            "sha": "445e21f5d0023a964202fae3c1e268beadd9a13a",
+            "date": "2023-08-28T09:53:52Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/445e21f5d0023a964202fae3c1e268beadd9a13a"
+          },
+          {
+            "sha": "fdef3f0ecb64ef594a82ee15d9b82c3ac7cffaec",
+            "date": "2023-08-28T09:50:08Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/fdef3f0ecb64ef594a82ee15d9b82c3ac7cffaec"
+          },
+          {
+            "sha": "c86a5afeb17252c5bd7147c16f0d16cc75beb412",
+            "date": "2023-08-28T09:39:27Z",
+            "message": "del: delete duplicate block in 2023-08-28",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/c86a5afeb17252c5bd7147c16f0d16cc75beb412"
+          },
+          {
+            "sha": "04fff66c0d1d3a728e73ffbb5062b83ddff7fe72",
+            "date": "2023-08-28T09:35:48Z",
+            "message": "update: update 2023-08-28 file",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/04fff66c0d1d3a728e73ffbb5062b83ddff7fe72"
+          },
+          {
+            "sha": "4598287f26cf5a524d55e19605fa9d962f516b9a",
+            "date": "2023-08-28T09:15:34Z",
+            "message": "fix: fix authors.yml",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/4598287f26cf5a524d55e19605fa9d962f516b9a"
+          },
+          {
+            "sha": "90dda67309966c90c3d00d301891cde0fb68e0aa",
+            "date": "2023-08-28T09:11:45Z",
+            "message": "update: update 2023-08-28 file",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/90dda67309966c90c3d00d301891cde0fb68e0aa"
+          },
+          {
+            "sha": "679c5e9b06dd66e84898ccb7cec9cd1606ff4fb0",
+            "date": "2023-08-28T09:02:56Z",
+            "message": "add : add 2023-08-28.md file",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/679c5e9b06dd66e84898ccb7cec9cd1606ff4fb0"
+          }
+        ],
+        "pull_requests": [
+          {
+            "number": 27,
+            "title": "[add]: add 3 demo links in intro.md",
+            "state": "closed",
+            "created_at": "2023-08-28T10:50:10Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/27",
+            "labels": [],
+            "comments": 0
+          },
+          {
+            "number": 26,
+            "title": "[Add ]\u4f7f\u7528anchor build \u4f9d\u8cf4\u885d\u7a81 \u6587\u7ae0",
+            "state": "closed",
+            "created_at": "2023-08-28T09:13:07Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/26",
+            "labels": [],
+            "comments": 0
+          }
+        ],
+        "total_commits": 10,
+        "total_prs": 2
+      },
+      "issues": {
+        "opened": [],
+        "total_opened": 0
+      },
+      "engagement": {
+        "comments": [],
+        "total_comments": 0
+      }
+    },
+    "score": 14,
+    "score_breakdown": {
+      "merged_prs": 14,
+      "issues": 0,
+      "pr_commits": 0,
+      "pr_reviews": 0,
+      "comments": 0.0,
+      "total": 14.0
+    }
+  },
+  {
+    "contributor": "bonnie0519",
+    "avatar_url": "https://avatars.githubusercontent.com/u/130346219?v=4",
+    "activity": {
+      "code": {
+        "commits": [
+          {
+            "sha": "d3937bec1038b78330b9bd5a971d85e474f3ebaa",
+            "date": "2023-08-23T10:24:41Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/d3937bec1038b78330b9bd5a971d85e474f3ebaa"
+          },
+          {
+            "sha": "074a66f61ccc2b06c5154c16be38d739a144b3c3",
+            "date": "2023-08-23T09:23:35Z",
+            "message": "Update README.md\n\n\u628a\u53c2\u8003\u8d44\u6599\u653e\u5728\u4e86\u8fd9\u9875\uff0c\u8fd8\u6709\u5f00\u5934\u5907\u6ce8\u4e86\u4e00\u4e0b",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/074a66f61ccc2b06c5154c16be38d739a144b3c3"
+          }
+        ],
+        "pull_requests": [
+          {
+            "number": 15,
+            "title": "Update README.md",
+            "state": "closed",
+            "created_at": "2023-08-23T10:25:09Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/15",
+            "labels": [],
+            "comments": 0
+          },
+          {
+            "number": 14,
+            "title": "Update README.md",
+            "state": "closed",
+            "created_at": "2023-08-23T09:27:25Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/14",
+            "labels": [],
+            "comments": 0
+          }
+        ],
+        "total_commits": 2,
+        "total_prs": 2
+      },
+      "issues": {
+        "opened": [],
+        "total_opened": 0
+      },
+      "engagement": {
+        "comments": [],
+        "total_comments": 0
+      }
+    },
+    "score": 14,
+    "score_breakdown": {
+      "merged_prs": 14,
+      "issues": 0,
+      "pr_commits": 0,
+      "pr_reviews": 0,
+      "comments": 0.0,
+      "total": 14.0
+    }
+  },
+  {
+    "contributor": "liushooter",
+    "avatar_url": "https://avatars.githubusercontent.com/u/1235106?v=4",
+    "activity": {
+      "code": {
+        "commits": [
+          {
+            "sha": "11e9889fa592b6e06caaeb1d9055463ab089369a",
+            "date": "2023-09-27T17:38:35Z",
+            "message": "up: 10 MB",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/11e9889fa592b6e06caaeb1d9055463ab089369a"
+          },
+          {
+            "sha": "0ea7c460e96d5afcda3fd863a0792dcc51a000a1",
+            "date": "2023-09-27T17:30:33Z",
+            "message": "fix: requestAidrop => requestAirdrop",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/0ea7c460e96d5afcda3fd863a0792dcc51a000a1"
+          }
+        ],
+        "pull_requests": [
+          {
+            "number": 44,
+            "title": "Fix Some Typo",
+            "state": "closed",
+            "created_at": "2023-09-29T01:03:58Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/44",
+            "labels": [],
+            "comments": 1
+          }
+        ],
+        "total_commits": 2,
+        "total_prs": 1
+      },
+      "issues": {
+        "opened": [
+          {
+            "number": 45,
+            "title": "\u5b89\u88c5 sugar-cli \u62a5\u9519",
+            "state": "closed",
+            "created_at": "2023-09-29T02:45:25Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/issues/45",
+            "labels": [],
+            "comments": 0
+          }
+        ],
+        "total_opened": 1
+      },
+      "engagement": {
+        "comments": [],
+        "total_comments": 0
+      }
+    },
+    "score": 8,
+    "score_breakdown": {
+      "merged_prs": 7,
+      "issues": 1,
+      "pr_commits": 0,
+      "pr_reviews": 0,
+      "comments": 0.0,
+      "total": 8.0
+    }
+  },
+  {
+    "contributor": "DaviRain-Su",
+    "avatar_url": "https://avatars.githubusercontent.com/u/53282030?v=4",
+    "activity": {
+      "code": {
+        "commits": [
+          {
+            "sha": "6fd3dfd62d71596ab3f27defd12bad561289e48d",
+            "date": "2023-10-24T07:56:55Z",
+            "message": "Merge pull request #51 from all-in-one-solana/main\n\nupdate link",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/6fd3dfd62d71596ab3f27defd12bad561289e48d"
+          },
+          {
+            "sha": "74b5f75ea7bd8fa217e5a89210bbfbfd51fa1d82",
+            "date": "2023-10-14T10:50:10Z",
+            "message": "Update README.md with new project name and tagline.",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/74b5f75ea7bd8fa217e5a89210bbfbfd51fa1d82"
+          },
+          {
+            "sha": "0062f7a753025c56bd8655759248199d3c02cbf3",
+            "date": "2023-10-14T09:54:06Z",
+            "message": "Update base URL and package-lock.json dependencies\n\n\"Update base URL and package-lock.json dependencies",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/0062f7a753025c56bd8655759248199d3c02cbf3"
+          },
+          {
+            "sha": "f0299cbc9b0a17d1b232fb16d63475c190f2caf0",
+            "date": "2023-10-01T04:05:30Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/f0299cbc9b0a17d1b232fb16d63475c190f2caf0"
+          },
+          {
+            "sha": "b97928ebb1f3359fde962ed47febdcd75eca49e0",
+            "date": "2023-09-29T05:58:12Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/b97928ebb1f3359fde962ed47febdcd75eca49e0"
+          },
+          {
+            "sha": "f2ce8b96476dd19fc79427189c29a91cf82ffb0c",
+            "date": "2023-09-29T01:08:20Z",
+            "message": "Merge pull request #44 from liushooter/dev",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/f2ce8b96476dd19fc79427189c29a91cf82ffb0c"
+          },
+          {
+            "sha": "43b2fe65656c70cb7533824456b34851513adb4a",
+            "date": "2023-09-28T09:11:49Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/43b2fe65656c70cb7533824456b34851513adb4a"
+          },
+          {
+            "sha": "0ca0c546741c9fb372021200b661a17d63699a7b",
+            "date": "2023-09-28T09:00:40Z",
+            "message": "Add solana development course",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/0ca0c546741c9fb372021200b661a17d63699a7b"
+          },
+          {
+            "sha": "afef565b66e42fd623fb9d221ce7b82e4ec2cea0",
+            "date": "2023-09-28T08:22:35Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/afef565b66e42fd623fb9d221ce7b82e4ec2cea0"
+          },
+          {
+            "sha": "3c54d3a08dbca7adbc7b5bdf95c74470c58dd176",
+            "date": "2023-09-28T07:39:50Z",
+            "message": "Update 2023-09-28.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/3c54d3a08dbca7adbc7b5bdf95c74470c58dd176"
+          },
+          {
+            "sha": "b23403d4512ba523039c801309eb580c9cd2c8c8",
+            "date": "2023-09-28T07:39:29Z",
+            "message": "Create 2023-09-28.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/b23403d4512ba523039c801309eb580c9cd2c8c8"
+          },
+          {
+            "sha": "6f039497212a40dde02922493d6944759d7c94f6",
+            "date": "2023-09-27T12:39:47Z",
+            "message": "update add thrid sdk",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/6f039497212a40dde02922493d6944759d7c94f6"
+          },
+          {
+            "sha": "73708eb561d9b566b4b7616bc7af6ba1b4be35de",
+            "date": "2023-09-21T14:20:51Z",
+            "message": "Merge pull request #41 from yct21/fix-typo",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/73708eb561d9b566b4b7616bc7af6ba1b4be35de"
+          },
+          {
+            "sha": "931df86296e30104e01ea4cd4fab9f2c79df5d4c",
+            "date": "2023-09-15T11:01:10Z",
+            "message": "Merge pull request #39 from v1xingyue/main\n\nadd search test",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/931df86296e30104e01ea4cd4fab9f2c79df5d4c"
+          },
+          {
+            "sha": "f70cdb50448e40f40b1f3def2a262546861d69b6",
+            "date": "2023-09-12T11:44:30Z",
+            "message": "Merge pull request #38 from v1xingyue/patch-3\n\n\u8865\u5145 createMint \u53c2\u6570",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/f70cdb50448e40f40b1f3def2a262546861d69b6"
+          },
+          {
+            "sha": "3ff4c7ee61e5ffa8f5b44f811e23dff7395f5bc0",
+            "date": "2023-09-07T11:29:49Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/3ff4c7ee61e5ffa8f5b44f811e23dff7395f5bc0"
+          },
+          {
+            "sha": "d742525af0b1cd23dcec817b2bb40d7cbb667fd3",
+            "date": "2023-09-07T01:34:56Z",
+            "message": "Merge pull request #35 from yct21/patch-1\n\nImporting web3.js in index.ts",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/d742525af0b1cd23dcec817b2bb40d7cbb667fd3"
+          },
+          {
+            "sha": "80d1c34c653250c1e1ec11bc30af6e9676976089",
+            "date": "2023-09-06T15:36:38Z",
+            "message": "what is anchor",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/80d1c34c653250c1e1ec11bc30af6e9676976089"
+          },
+          {
+            "sha": "814ceaadc241a08738b8d14b88666ca7d71adfef",
+            "date": "2023-09-06T11:01:32Z",
+            "message": "Update README.mdx",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/814ceaadc241a08738b8d14b88666ca7d71adfef"
+          },
+          {
+            "sha": "0da83e02856b1b02b89e3c550378791f581396c2",
+            "date": "2023-09-05T03:58:44Z",
+            "message": "Merge branch 'main' of https://github.com/CreatorsDAO/creatorsdao.github.io",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/0da83e02856b1b02b89e3c550378791f581396c2"
+          },
+          {
+            "sha": "776d6e42bdd6b234955c57899cffe72b9378e51b",
+            "date": "2023-09-05T03:58:35Z",
+            "message": "Update README.mdx",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/776d6e42bdd6b234955c57899cffe72b9378e51b"
+          },
+          {
+            "sha": "645f9b6dea70dc138c0621c3eb2d8ac8a1be07f9",
+            "date": "2023-09-05T01:49:28Z",
+            "message": "Merge pull request #34 from v1xingyue/patch-2\n\nbug",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/645f9b6dea70dc138c0621c3eb2d8ac8a1be07f9"
+          },
+          {
+            "sha": "9d83e4e234d1187d82eb724415641383087b2c10",
+            "date": "2023-09-04T13:48:49Z",
+            "message": "Update README.mdx",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/9d83e4e234d1187d82eb724415641383087b2c10"
+          },
+          {
+            "sha": "4115388ee9f802cdcfb8aaff36eed83fc303fe77",
+            "date": "2023-09-04T13:29:34Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/4115388ee9f802cdcfb8aaff36eed83fc303fe77"
+          },
+          {
+            "sha": "7d4cd81ad1d31eae563b7093dc597b1fcd1b833d",
+            "date": "2023-09-04T13:13:02Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/7d4cd81ad1d31eae563b7093dc597b1fcd1b833d"
+          },
+          {
+            "sha": "b57d402b12a91fec1595845b9e9ab8b9097888c2",
+            "date": "2023-09-04T13:12:11Z",
+            "message": "update \ud83d\udee3 Anchor\u4e2d\u7684PDA\uff08\u7a0b\u5e8f\u6d3e\u751f\u5730\u5740\uff09",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/b57d402b12a91fec1595845b9e9ab8b9097888c2"
+          },
+          {
+            "sha": "7ed859e53afee0c0e3367f0e14c9352fe1ddf8be",
+            "date": "2023-09-03T10:53:52Z",
+            "message": "Update docusaurus.config.js",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/7ed859e53afee0c0e3367f0e14c9352fe1ddf8be"
+          },
+          {
+            "sha": "2578b07d06289f8ed692e10547bc3cb81b30a538",
+            "date": "2023-09-03T10:14:24Z",
+            "message": "Update docusaurus.config.js",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/2578b07d06289f8ed692e10547bc3cb81b30a538"
+          },
+          {
+            "sha": "28c71e3a5a4ba60e29caadd02e3224e75b3ce10c",
+            "date": "2023-09-03T10:11:30Z",
+            "message": "Update docusaurus.config.js",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/28c71e3a5a4ba60e29caadd02e3224e75b3ce10c"
+          },
+          {
+            "sha": "bb57aeca6029d5a87d86e3290b091e6243268663",
+            "date": "2023-09-03T10:05:17Z",
+            "message": "Update docusaurus.config.js",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/bb57aeca6029d5a87d86e3290b091e6243268663"
+          },
+          {
+            "sha": "26274aaf81354bc4b5b7b9754b09943d164e71cf",
+            "date": "2023-09-03T06:10:23Z",
+            "message": "Update README.mdx",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/26274aaf81354bc4b5b7b9754b09943d164e71cf"
+          },
+          {
+            "sha": "daac4385cb8eef56f1b8523eddda5ee671237967",
+            "date": "2023-09-01T15:47:36Z",
+            "message": "Update README.mdx",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/daac4385cb8eef56f1b8523eddda5ee671237967"
+          },
+          {
+            "sha": "b495795672b32ff5e70960d3a75dd1ac66fd2151",
+            "date": "2023-09-01T08:41:31Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/b495795672b32ff5e70960d3a75dd1ac66fd2151"
+          },
+          {
+            "sha": "254f814de22541f77a4b3c87b08a10696c6daf36",
+            "date": "2023-09-01T01:33:14Z",
+            "message": "Update README.mdx",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/254f814de22541f77a4b3c87b08a10696c6daf36"
+          },
+          {
+            "sha": "73b123a185cb6f879e616110304c02da75f80bec",
+            "date": "2023-08-31T16:45:11Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/73b123a185cb6f879e616110304c02da75f80bec"
+          },
+          {
+            "sha": "fdf533e57e82ab1c4690f1543b65472aeaa181f7",
+            "date": "2023-08-31T10:30:08Z",
+            "message": "update \ud83d\udef3 \u8bbe\u7f6e Anchor",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/fdf533e57e82ab1c4690f1543b65472aeaa181f7"
+          },
+          {
+            "sha": "4e3d7d83cd2b63fa963604282e23312a3e679886",
+            "date": "2023-08-31T02:48:53Z",
+            "message": "Merge pull request #32 from yct21/fix-backpack-adaptor-name\n\nCorrect name of BackpackWalletAdapter",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/4e3d7d83cd2b63fa963604282e23312a3e679886"
+          },
+          {
+            "sha": "3ec2a802d3dd6aae71b04ffaf74bc324b6d624f4",
+            "date": "2023-08-30T13:47:30Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/3ec2a802d3dd6aae71b04ffaf74bc324b6d624f4"
+          },
+          {
+            "sha": "0d8f05f9d68a740d801f70404ab3927d725297d8",
+            "date": "2023-08-30T11:29:47Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/0d8f05f9d68a740d801f70404ab3927d725297d8"
+          },
+          {
+            "sha": "29083872f636b2802e86a76e9b4131b8caae8426",
+            "date": "2023-08-30T10:25:17Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/29083872f636b2802e86a76e9b4131b8caae8426"
+          },
+          {
+            "sha": "87280e9a344c3ca9ded70fd771f1038b8a903f84",
+            "date": "2023-08-30T07:41:15Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/87280e9a344c3ca9ded70fd771f1038b8a903f84"
+          },
+          {
+            "sha": "0c840b39795f7095cc7ae15719907dad52c7366a",
+            "date": "2023-08-30T03:42:01Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/0c840b39795f7095cc7ae15719907dad52c7366a"
+          },
+          {
+            "sha": "a24b79f7e60f487a1fb964f2b77bd9c3abaee8b3",
+            "date": "2023-08-30T03:19:07Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/a24b79f7e60f487a1fb964f2b77bd9c3abaee8b3"
+          },
+          {
+            "sha": "895a07d2f9df9313cd84611e05f6cbca420da9f7",
+            "date": "2023-08-30T02:26:02Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/895a07d2f9df9313cd84611e05f6cbca420da9f7"
+          },
+          {
+            "sha": "0f913e6eb3bac88d940c9ba333be145c6862520c",
+            "date": "2023-08-30T02:04:59Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/0f913e6eb3bac88d940c9ba333be145c6862520c"
+          },
+          {
+            "sha": "b7371c7f2ccfb33c7e3f74a570222c9651417704",
+            "date": "2023-08-30T02:00:45Z",
+            "message": "Merge branch 'main' of https://github.com/CreatorsDAO/all-in-one-solana",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/b7371c7f2ccfb33c7e3f74a570222c9651417704"
+          },
+          {
+            "sha": "3916d537aebed7a9a48724f2b1de2a991e16ddb6",
+            "date": "2023-08-30T02:00:41Z",
+            "message": "add contributing.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/3916d537aebed7a9a48724f2b1de2a991e16ddb6"
+          },
+          {
+            "sha": "c05333cf41b0a0afbbf87b4f831d42f21b757e77",
+            "date": "2023-08-30T01:28:02Z",
+            "message": "Merge pull request #28 from v1xingyue/patch-1\n\nada and pda",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/c05333cf41b0a0afbbf87b4f831d42f21b757e77"
+          },
+          {
+            "sha": "e39bd851ddf2a81737aa8e3fabe33bee7a3bf810",
+            "date": "2023-08-29T16:58:51Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/e39bd851ddf2a81737aa8e3fabe33bee7a3bf810"
+          },
+          {
+            "sha": "be8d04e4d53a7d23b59ac31ade22c30b106fb073",
+            "date": "2023-08-29T16:55:00Z",
+            "message": "Update versioned-transactions.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/be8d04e4d53a7d23b59ac31ade22c30b106fb073"
+          },
+          {
+            "sha": "21ce861f12c306e5329c420a73f4d40d309609ae",
+            "date": "2023-08-29T16:51:36Z",
+            "message": "Update get-program-accounts.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/21ce861f12c306e5329c420a73f4d40d309609ae"
+          },
+          {
+            "sha": "665a7d5ca1f98064b0711fafaf3456a89f6d10e3",
+            "date": "2023-08-29T16:43:58Z",
+            "message": "Update installation.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/665a7d5ca1f98064b0711fafaf3456a89f6d10e3"
+          },
+          {
+            "sha": "a22eb561aa4f2ce40a791e896f294795fa598439",
+            "date": "2023-08-29T16:23:15Z",
+            "message": "update reference accounts",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/a22eb561aa4f2ce40a791e896f294795fa598439"
+          },
+          {
+            "sha": "b7bd26953cd73e481be778e235b0aad0e2f68256",
+            "date": "2023-08-29T16:03:53Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/b7bd26953cd73e481be778e235b0aad0e2f68256"
+          },
+          {
+            "sha": "b9eeef88db690496ac3c85cf7586da8983e1bde6",
+            "date": "2023-08-29T15:54:15Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/b9eeef88db690496ac3c85cf7586da8983e1bde6"
+          },
+          {
+            "sha": "c53556784ded50cfe68767229816bf512374c391",
+            "date": "2023-08-29T14:32:40Z",
+            "message": "add solana cookbook",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/c53556784ded50cfe68767229816bf512374c391"
+          },
+          {
+            "sha": "0788357b53faebfbf11dc8967755b647c456e195",
+            "date": "2023-08-29T13:39:34Z",
+            "message": "Merge pull request #30 from jamesishandsome/feature/style-change\n\nFeature/style change",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/0788357b53faebfbf11dc8967755b647c456e195"
+          },
+          {
+            "sha": "557cede71289c48a236bac0d2da23433b1c8e57c",
+            "date": "2023-08-29T12:05:26Z",
+            "message": "Update native_program_hello.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/557cede71289c48a236bac0d2da23433b1c8e57c"
+          },
+          {
+            "sha": "82057c44763ab7dd938ff16458a682457ef5c456",
+            "date": "2023-08-29T09:31:30Z",
+            "message": "update \u79cd\u5b50 to seeds",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/82057c44763ab7dd938ff16458a682457ef5c456"
+          },
+          {
+            "sha": "8ecd312ace03927a72dbcb88ef7a62c600d5977a",
+            "date": "2023-08-29T09:16:33Z",
+            "message": "Update test validator command description in anchor_program_hello.md and native_program_hello.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/8ecd312ace03927a72dbcb88ef7a62c600d5977a"
+          },
+          {
+            "sha": "9e5a5ab09159afd4a3ecff5347d0889b350d7964",
+            "date": "2023-08-29T08:53:46Z",
+            "message": "Update native_program_hello.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/9e5a5ab09159afd4a3ecff5347d0889b350d7964"
+          },
+          {
+            "sha": "84b6a8a9147a26b2e49aa17110a648c780886bbb",
+            "date": "2023-08-29T08:52:27Z",
+            "message": "Update native_program_hello.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/84b6a8a9147a26b2e49aa17110a648c780886bbb"
+          },
+          {
+            "sha": "3f5d04f5a7b6bea912ec9104909dfc65652a92ef",
+            "date": "2023-08-29T08:51:33Z",
+            "message": "Update native_program_hello.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/3f5d04f5a7b6bea912ec9104909dfc65652a92ef"
+          },
+          {
+            "sha": "774ae8414548a7a9bcbbc5c13b42aa933a68dda1",
+            "date": "2023-08-29T08:44:35Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/774ae8414548a7a9bcbbc5c13b42aa933a68dda1"
+          },
+          {
+            "sha": "6035f46d273663903fec4e5f30eb44316b588b7b",
+            "date": "2023-08-29T08:24:21Z",
+            "message": "[Break change] update website",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/6035f46d273663903fec4e5f30eb44316b588b7b"
+          },
+          {
+            "sha": "58ef09e5f1d302b631be3bdb0fbbff9a80699f2c",
+            "date": "2023-08-29T06:41:34Z",
+            "message": "[Remove] other_docs and code",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/58ef09e5f1d302b631be3bdb0fbbff9a80699f2c"
+          },
+          {
+            "sha": "83eff7b04dc936b4639e5e46977b4aa1fb490b87",
+            "date": "2023-08-29T06:38:49Z",
+            "message": "Update docusaurus.config.js",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/83eff7b04dc936b4639e5e46977b4aa1fb490b87"
+          },
+          {
+            "sha": "c0ee3f96559e817f35a5525c21bd9c486974f18e",
+            "date": "2023-08-29T06:35:59Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/c0ee3f96559e817f35a5525c21bd9c486974f18e"
+          },
+          {
+            "sha": "9f58b3dbffef3abc6c6dab715ee49899b594f77e",
+            "date": "2023-08-29T05:54:31Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/9f58b3dbffef3abc6c6dab715ee49899b594f77e"
+          },
+          {
+            "sha": "a3aa11d00f8317b31a2a049907f06d45764c0e35",
+            "date": "2023-08-29T05:50:07Z",
+            "message": "update dep",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/a3aa11d00f8317b31a2a049907f06d45764c0e35"
+          },
+          {
+            "sha": "78347e24669e6dd1926aa5adde175c167bfc33d2",
+            "date": "2023-08-29T04:09:26Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/78347e24669e6dd1926aa5adde175c167bfc33d2"
+          },
+          {
+            "sha": "84481bbc468dab012694ce2089e0b5c2bc170a8c",
+            "date": "2023-08-29T01:38:59Z",
+            "message": "Update README with instructions for local deployment and modification of frontend code.",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/84481bbc468dab012694ce2089e0b5c2bc170a8c"
+          },
+          {
+            "sha": "107e1e351ad78674dd0a9b32e570ef74bfe8a2b6",
+            "date": "2023-08-28T17:03:21Z",
+            "message": "Update package-lock.json",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/107e1e351ad78674dd0a9b32e570ef74bfe8a2b6"
+          },
+          {
+            "sha": "0c42545dd3ce37e6532b89c52b73eb4c7d0cab36",
+            "date": "2023-08-28T16:50:32Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/0c42545dd3ce37e6532b89c52b73eb4c7d0cab36"
+          },
+          {
+            "sha": "a9ccc651a8bf91c0eb138b91adbccec36bf0cf79",
+            "date": "2023-08-28T12:08:37Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/a9ccc651a8bf91c0eb138b91adbccec36bf0cf79"
+          },
+          {
+            "sha": "1a055a4a5f1a53c47caf9cde1e904bd1834897e1",
+            "date": "2023-08-28T11:16:48Z",
+            "message": "Merge pull request #27 from Manuel-yang/main\n\n[add]: add 3 demo links in intro.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/1a055a4a5f1a53c47caf9cde1e904bd1834897e1"
+          },
+          {
+            "sha": "3ad5e1cd70c82ece8c870ea81bc8907cd7c5d8f7",
+            "date": "2023-08-28T10:10:51Z",
+            "message": "Merge pull request #26 from Manuel-yang/main\n\n[Add ]\u4f7f\u7528anchor build \u4f9d\u8cf4\u885d\u7a81 \u6587\u7ae0",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/3ad5e1cd70c82ece8c870ea81bc8907cd7c5d8f7"
+          },
+          {
+            "sha": "cd5f4058f3b9934f8b435ac4376d1127433aade9",
+            "date": "2023-08-28T03:49:25Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/cd5f4058f3b9934f8b435ac4376d1127433aade9"
+          },
+          {
+            "sha": "d1296f497f8add4fb6c0dad2f993a55b82e974ce",
+            "date": "2023-08-28T03:16:09Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/d1296f497f8add4fb6c0dad2f993a55b82e974ce"
+          },
+          {
+            "sha": "b722b7185a6574404689ff5a8bcaa348dea2d2d5",
+            "date": "2023-08-28T03:16:02Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/b722b7185a6574404689ff5a8bcaa348dea2d2d5"
+          },
+          {
+            "sha": "d79ddf92bc0a6c6fc30b0f9f0f09fb454db29f0e",
+            "date": "2023-08-28T02:14:23Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/d79ddf92bc0a6c6fc30b0f9f0f09fb454db29f0e"
+          },
+          {
+            "sha": "67cc53bbc29e5728401f0e82b53b1d7c59a21b80",
+            "date": "2023-08-28T01:58:29Z",
+            "message": "remove \u54c8\u54c8",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/67cc53bbc29e5728401f0e82b53b1d7c59a21b80"
+          },
+          {
+            "sha": "3123771ec940269b3ff465ee6c478f66ca90cd7a",
+            "date": "2023-08-28T00:38:25Z",
+            "message": "Merge pull request #25 from v1xingyue/v1xingyue-patch-1",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/3123771ec940269b3ff465ee6c478f66ca90cd7a"
+          },
+          {
+            "sha": "116a40b083a8d2f86a957f3e2e41fa298785e630",
+            "date": "2023-08-27T12:33:25Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/116a40b083a8d2f86a957f3e2e41fa298785e630"
+          },
+          {
+            "sha": "38d6035d5bfc80a251a633e93fd0e938b3e317f1",
+            "date": "2023-08-27T09:59:57Z",
+            "message": "Create solana-program-logic.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/38d6035d5bfc80a251a633e93fd0e938b3e317f1"
+          },
+          {
+            "sha": "5a3f5550918f4dd18db42ac05a52ce374075bfc9",
+            "date": "2023-08-27T09:56:31Z",
+            "message": "Update solana-program-struct.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/5a3f5550918f4dd18db42ac05a52ce374075bfc9"
+          },
+          {
+            "sha": "e4e8c253acf31168771fa4bbc98718057ed96d5b",
+            "date": "2023-08-27T09:55:29Z",
+            "message": "Create solana-program-struct.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/e4e8c253acf31168771fa4bbc98718057ed96d5b"
+          },
+          {
+            "sha": "b01a3b1dd95651ba1441b99c469d9e339edee197",
+            "date": "2023-08-27T09:44:18Z",
+            "message": "add hello world for solana bc zh",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/b01a3b1dd95651ba1441b99c469d9e339edee197"
+          },
+          {
+            "sha": "fa671e17b09987c4b9be8e06fe9c6198fdff1a76",
+            "date": "2023-08-26T13:50:58Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/fa671e17b09987c4b9be8e06fe9c6198fdff1a76"
+          },
+          {
+            "sha": "386e8a001a9c98b3c139a5d3ce77dfdfe736f075",
+            "date": "2023-08-26T13:23:35Z",
+            "message": "bump install solana-cli version",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/386e8a001a9c98b3c139a5d3ce77dfdfe736f075"
+          },
+          {
+            "sha": "64d361faa8ec519ac2dd3b5e6ef6d328698f336b",
+            "date": "2023-08-26T12:50:33Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/64d361faa8ec519ac2dd3b5e6ef6d328698f336b"
+          },
+          {
+            "sha": "266c5118c32361c71badd56ca2888334ceade7e0",
+            "date": "2023-08-26T12:30:42Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/266c5118c32361c71badd56ca2888334ceade7e0"
+          },
+          {
+            "sha": "fbc32b887a01af7f0846fa7a3136e22bd096b14a",
+            "date": "2023-08-26T07:51:48Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/fbc32b887a01af7f0846fa7a3136e22bd096b14a"
+          },
+          {
+            "sha": "5374a5a35786130a04bde23b53dc8bc4a12b3f84",
+            "date": "2023-08-26T07:46:31Z",
+            "message": "add \ud83d\udd1c hello world \u5feb\u901f\u5165\u95e8\u6307\u5357",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/5374a5a35786130a04bde23b53dc8bc4a12b3f84"
+          },
+          {
+            "sha": "a956e57f43a19d196dde656735ae973d2f7fb226",
+            "date": "2023-08-26T04:05:34Z",
+            "message": "add blog \u7ffb\u8bd1 Solana \u7684\u72b6\u6001\u538b\u7f29",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/a956e57f43a19d196dde656735ae973d2f7fb226"
+          },
+          {
+            "sha": "18ce1a4ebbbbc4df64406879a6ef88440696e93c",
+            "date": "2023-08-25T06:19:13Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/18ce1a4ebbbbc4df64406879a6ef88440696e93c"
+          },
+          {
+            "sha": "59bcc1a552a28c4dd4835e2f7c99437d88293205",
+            "date": "2023-08-25T02:22:13Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/59bcc1a552a28c4dd4835e2f7c99437d88293205"
+          },
+          {
+            "sha": "b5d88fb26e94d54249af294870b14aaac2f46424",
+            "date": "2023-08-25T02:18:30Z",
+            "message": "update  \ud83e\uddd0 PDA\u6df1\u5165\u63a2\u7a76",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/b5d88fb26e94d54249af294870b14aaac2f46424"
+          },
+          {
+            "sha": "3aafe406624326ca10c0c236c1188854e7e7154a",
+            "date": "2023-08-25T02:14:08Z",
+            "message": "Merge branch 'main' of https://github.com/CreatorsDAO/all-in-one-solana",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/3aafe406624326ca10c0c236c1188854e7e7154a"
+          },
+          {
+            "sha": "10922496aea7efec420f8d3eff3fb98bb5d7a1be",
+            "date": "2023-08-25T02:10:05Z",
+            "message": "Merge pull request #21 from v1xingyue/main\n\n\u7f51\u7edc\u4f7f\u7528\u5efa\u8bae",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/10922496aea7efec420f8d3eff3fb98bb5d7a1be"
+          },
+          {
+            "sha": "3b37c0dc6f76ddca973a6efdbf6415d20359bcc7",
+            "date": "2023-08-25T01:47:43Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/3b37c0dc6f76ddca973a6efdbf6415d20359bcc7"
+          },
+          {
+            "sha": "1a86c803d53a6c66154324ce1d5f9cdb694d7879",
+            "date": "2023-08-25T01:42:59Z",
+            "message": "update \u2757 \u9519\u8bef\u5904\u7406\u548c\u6570\u636e\u9a8c\u8bc1",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/1a86c803d53a6c66154324ce1d5f9cdb694d7879"
+          },
+          {
+            "sha": "b3f70434d759da18ce0cc9b27ae39d0b926113bc",
+            "date": "2023-08-25T01:27:53Z",
+            "message": "Merge branch 'main' of https://github.com/CreatorsDAO/all-in-one-solana",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/b3f70434d759da18ce0cc9b27ae39d0b926113bc"
+          },
+          {
+            "sha": "b9f1e351579127e6071e2c1838ac1a5b278b66af",
+            "date": "2023-08-25T01:27:46Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/b9f1e351579127e6071e2c1838ac1a5b278b66af"
+          },
+          {
+            "sha": "1e27cae137eb89877c7845bdabfda5c53011698a",
+            "date": "2023-08-25T01:00:51Z",
+            "message": "Merge pull request #20 from v1xingyue/main-2\n\n\u6dfb\u52a0solana \u7a0b\u5e8f\u5b9e\u4f8b",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/1e27cae137eb89877c7845bdabfda5c53011698a"
+          },
+          {
+            "sha": "4d195a0638eb824d2239267524c3fd36967df21c",
+            "date": "2023-08-24T13:52:14Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/4d195a0638eb824d2239267524c3fd36967df21c"
+          },
+          {
+            "sha": "76d1872d9eab5cd749dc456837513dece95121b5",
+            "date": "2023-08-24T13:45:15Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/76d1872d9eab5cd749dc456837513dece95121b5"
+          },
+          {
+            "sha": "99e7f119fb30089cf01038362e8567f472258d02",
+            "date": "2023-08-24T12:34:30Z",
+            "message": "update \ud83c\udf82 Rust\u7684\u5206\u5c42\u86cb\u7cd5",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/99e7f119fb30089cf01038362e8567f472258d02"
+          },
+          {
+            "sha": "fa7cf79ff9a91d3ac5af00f1a3e12c74cc98349d",
+            "date": "2023-08-24T08:46:49Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/fa7cf79ff9a91d3ac5af00f1a3e12c74cc98349d"
+          },
+          {
+            "sha": "3441affd7b0c7a0c7b3d84ecaa9b0aa2c5a82471",
+            "date": "2023-08-24T02:20:21Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/3441affd7b0c7a0c7b3d84ecaa9b0aa2c5a82471"
+          },
+          {
+            "sha": "ab3613d6a16f206b7b951684fc828bd255a5331c",
+            "date": "2023-08-24T01:53:32Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/ab3613d6a16f206b7b951684fc828bd255a5331c"
+          },
+          {
+            "sha": "9e226bce447b85f0226fa7d85477862296f2e923",
+            "date": "2023-08-24T01:49:17Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/9e226bce447b85f0226fa7d85477862296f2e923"
+          },
+          {
+            "sha": "afa433d3b8640a3f1691670f4f16479704d36cb8",
+            "date": "2023-08-24T01:38:44Z",
+            "message": "Update README.md in token program: Chinese translations and links improved",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/afa433d3b8640a3f1691670f4f16479704d36cb8"
+          },
+          {
+            "sha": "fff4fcfcb57a5f5382f9a8c62ccaa4a37cb3f94a",
+            "date": "2023-08-24T01:35:29Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/fff4fcfcb57a5f5382f9a8c62ccaa4a37cb3f94a"
+          },
+          {
+            "sha": "014a76a5521e2603e498a267f0f788c1ef2ac161",
+            "date": "2023-08-23T17:29:24Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/014a76a5521e2603e498a267f0f788c1ef2ac161"
+          },
+          {
+            "sha": "312ae2c3e4334b3a5496a9d246b809905575cee2",
+            "date": "2023-08-23T17:10:35Z",
+            "message": "Create token mint and associated token accounts",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/312ae2c3e4334b3a5496a9d246b809905575cee2"
+          },
+          {
+            "sha": "38bd04b1c2c81456c232390184026a14fb4189a0",
+            "date": "2023-08-23T16:52:51Z",
+            "message": "Update deployment instructions and wallet usage guide",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/38bd04b1c2c81456c232390184026a14fb4189a0"
+          },
+          {
+            "sha": "f2456fb5d368a442756b5a4bd6b129ee9f5c3017",
+            "date": "2023-08-23T16:46:31Z",
+            "message": "Refactor NFT minter front-end component, update imports, and enhance user experience.",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/f2456fb5d368a442756b5a4bd6b129ee9f5c3017"
+          },
+          {
+            "sha": "f7a743909d546db3e8d5e808a212523549602a69",
+            "date": "2023-08-23T16:41:21Z",
+            "message": "Refactor instructions to use CreatorsDAO repositories and fix typos",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/f7a743909d546db3e8d5e808a212523549602a69"
+          },
+          {
+            "sha": "2a9c7d5fb91964f4397c5c5b835c4cd759498cdf",
+            "date": "2023-08-23T16:08:31Z",
+            "message": "Fix code comments and links in README files",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/2a9c7d5fb91964f4397c5c5b835c4cd759498cdf"
+          },
+          {
+            "sha": "d8d6a670a8cdba992cac88292c071d2cb32ae6ce",
+            "date": "2023-08-23T15:47:27Z",
+            "message": "Refactor README, update wallet usage link, and clarify challenge details.",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/d8d6a670a8cdba992cac88292c071d2cb32ae6ce"
+          },
+          {
+            "sha": "c51ad6d14933d7e1ea78c54dd9a3745131797945",
+            "date": "2023-08-23T15:39:33Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/c51ad6d14933d7e1ea78c54dd9a3745131797945"
+          },
+          {
+            "sha": "573b0d99ccd9a42837f43281f5e97d58a8dd2d16",
+            "date": "2023-08-23T10:28:34Z",
+            "message": "Merge pull request #15 from bonnie0519/main-3",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/573b0d99ccd9a42837f43281f5e97d58a8dd2d16"
+          },
+          {
+            "sha": "a933a6d08b82417093ed20fe629abf307c6ae5fa",
+            "date": "2023-08-23T09:48:13Z",
+            "message": "Merge pull request #14 from bonnie0519/main-2",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/a933a6d08b82417093ed20fe629abf307c6ae5fa"
+          },
+          {
+            "sha": "5d0e27bbfb4620b96bf0e2dae2d754e76e4f5738",
+            "date": "2023-08-23T09:41:01Z",
+            "message": "Merge branch 'main' of https://github.com/CreatorsDAO/all-in-one-solana",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/5d0e27bbfb4620b96bf0e2dae2d754e76e4f5738"
+          },
+          {
+            "sha": "1834608a55765ef8ead0f58147c7055bb2e3e628",
+            "date": "2023-08-23T09:40:57Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/1834608a55765ef8ead0f58147c7055bb2e3e628"
+          },
+          {
+            "sha": "ef9f83eb045c5bd8d079b59ac27f796036778a70",
+            "date": "2023-08-23T09:15:37Z",
+            "message": "Merge pull request #13 from v1xingyue/main-1\n\nUpdate docusaurus.config.js",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/ef9f83eb045c5bd8d079b59ac27f796036778a70"
+          },
+          {
+            "sha": "58593f479a303529a279e27e95ae99f8326faa7d",
+            "date": "2023-08-23T07:51:15Z",
+            "message": "Update README.md in build-an-interaction-script and write-data-to-the-blockchain modules",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/58593f479a303529a279e27e95ae99f8326faa7d"
+          },
+          {
+            "sha": "a3ce34737e37bd0c3d67586dbd755743b5c88587",
+            "date": "2023-08-23T06:42:23Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/a3ce34737e37bd0c3d67586dbd755743b5c88587"
+          },
+          {
+            "sha": "06ba1f2a4b980c1e6a5e38366d222d4774078bb3",
+            "date": "2023-08-23T06:40:18Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/06ba1f2a4b980c1e6a5e38366d222d4774078bb3"
+          },
+          {
+            "sha": "2bc492f91c3b3a38e9d72f65af0580f17fecb06d",
+            "date": "2023-08-23T06:07:07Z",
+            "message": "Refactor README.md: Update key pair and connection details",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/2bc492f91c3b3a38e9d72f65af0580f17fecb06d"
+          },
+          {
+            "sha": "874eda46406a0e4e7d3b13c48620871feadf2c52",
+            "date": "2023-08-23T05:53:25Z",
+            "message": "update \u4ece Solana \ud83e\udd13 \u533a\u5757\u94fe\u8bfb\u53d6\u6570\u636e",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/874eda46406a0e4e7d3b13c48620871feadf2c52"
+          },
+          {
+            "sha": "b10e4c668d5496a4fc15827e0b609bdba5912817",
+            "date": "2023-08-22T02:10:14Z",
+            "message": "Update native_program_hello.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/b10e4c668d5496a4fc15827e0b609bdba5912817"
+          },
+          {
+            "sha": "4bde8b5c39cad40c03acda9e23f18d922ff8312d",
+            "date": "2023-08-22T01:06:26Z",
+            "message": "Update local_program_development.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/4bde8b5c39cad40c03acda9e23f18d922ff8312d"
+          },
+          {
+            "sha": "aa82b327e4bd0013e3c45693df7e28369254a139",
+            "date": "2023-08-21T07:46:35Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/aa82b327e4bd0013e3c45693df7e28369254a139"
+          },
+          {
+            "sha": "c105f3439441e6cc5b129c7cc913a2eb9a97ee8b",
+            "date": "2023-08-21T07:45:17Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/c105f3439441e6cc5b129c7cc913a2eb9a97ee8b"
+          },
+          {
+            "sha": "21227bd90db095851f15b512c3af514c27dca92f",
+            "date": "2023-08-21T07:40:45Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/21227bd90db095851f15b512c3af514c27dca92f"
+          },
+          {
+            "sha": "f32d5d4b9cb700f036ead989efff3d8f66c037db",
+            "date": "2023-08-21T07:31:58Z",
+            "message": "Update rustaceans-understand.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/f32d5d4b9cb700f036ead989efff3d8f66c037db"
+          },
+          {
+            "sha": "998967351abfe23f477129538a0b0f71efec3b66",
+            "date": "2023-08-21T07:29:29Z",
+            "message": "add week4",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/998967351abfe23f477129538a0b0f71efec3b66"
+          },
+          {
+            "sha": "6f6dcfbac342a4b083cae16aa958e21d9af83369",
+            "date": "2023-08-21T06:12:06Z",
+            "message": "Create rust-basic.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/6f6dcfbac342a4b083cae16aa958e21d9af83369"
+          },
+          {
+            "sha": "b9dcbe4fa03a663e701b9e186ddec27507ccf29b",
+            "date": "2023-08-21T03:36:53Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/b9dcbe4fa03a663e701b9e186ddec27507ccf29b"
+          },
+          {
+            "sha": "b6b28a677944e45a02c64a7fe30a63e73d9650ba",
+            "date": "2023-08-21T03:23:19Z",
+            "message": "add week3",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/b6b28a677944e45a02c64a7fe30a63e73d9650ba"
+          },
+          {
+            "sha": "f2b0d2e17520f5dbf5a62b246426bf2af5631171",
+            "date": "2023-08-21T02:00:11Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/f2b0d2e17520f5dbf5a62b246426bf2af5631171"
+          },
+          {
+            "sha": "9f7e729d8ea379ea7559419e5c9254b893dc07ef",
+            "date": "2023-08-21T01:57:29Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/9f7e729d8ea379ea7559419e5c9254b893dc07ef"
+          },
+          {
+            "sha": "693a8f9606875dea247515c72f1128ee3a4b5755",
+            "date": "2023-08-21T01:57:01Z",
+            "message": "add week2",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/693a8f9606875dea247515c72f1128ee3a4b5755"
+          },
+          {
+            "sha": "08809b1230eca69920a2f3dbbb03d564697f1866",
+            "date": "2023-08-20T13:39:13Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/08809b1230eca69920a2f3dbbb03d564697f1866"
+          },
+          {
+            "sha": "93e1baa33b454be77ee5d424409d4d7fac7009f3",
+            "date": "2023-08-20T13:12:44Z",
+            "message": "add week1",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/93e1baa33b454be77ee5d424409d4d7fac7009f3"
+          },
+          {
+            "sha": "ec5c48c23c3a5c8909dbbebcb650d98018e3ea44",
+            "date": "2023-08-20T10:23:20Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/ec5c48c23c3a5c8909dbbebcb650d98018e3ea44"
+          },
+          {
+            "sha": "fd87b042601f689d2e3c6fb716cb57e67b5fb94b",
+            "date": "2023-08-20T10:19:41Z",
+            "message": "add Solana\u6838\u5fc3\u6982\u5ff5 Solana\u4ecb\u7ecd",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/fd87b042601f689d2e3c6fb716cb57e67b5fb94b"
+          },
+          {
+            "sha": "13b851a4bfac7b00ce7905cc1265d23be9f49409",
+            "date": "2023-08-20T09:02:47Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/13b851a4bfac7b00ce7905cc1265d23be9f49409"
+          },
+          {
+            "sha": "9954e177761659fa154eb7e58484b2295f5c549f",
+            "date": "2023-08-20T08:55:47Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/9954e177761659fa154eb7e58484b2295f5c549f"
+          },
+          {
+            "sha": "33535da14c6cc6558016eecec33216b761e6340e",
+            "date": "2023-08-20T08:49:26Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/33535da14c6cc6558016eecec33216b761e6340e"
+          },
+          {
+            "sha": "f3d3e82f177f327cde916014b0d399fc4248a43b",
+            "date": "2023-08-20T08:46:53Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/f3d3e82f177f327cde916014b0d399fc4248a43b"
+          },
+          {
+            "sha": "a572b94fb6e1cb04176c1e21738d51afefcef01e",
+            "date": "2023-08-20T08:35:56Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/a572b94fb6e1cb04176c1e21738d51afefcef01e"
+          },
+          {
+            "sha": "5e7f2909761e103a206fcdb77715944211dfdab9",
+            "date": "2023-08-20T08:30:31Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/5e7f2909761e103a206fcdb77715944211dfdab9"
+          },
+          {
+            "sha": "2672f5ca3eb511882f1c80170618916ab937eb44",
+            "date": "2023-08-20T08:15:15Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/2672f5ca3eb511882f1c80170618916ab937eb44"
+          },
+          {
+            "sha": "da3b6a823caa50964183a66d01a5d9f66a192f5c",
+            "date": "2023-08-20T07:48:44Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/da3b6a823caa50964183a66d01a5d9f66a192f5c"
+          },
+          {
+            "sha": "27d08f38613ad1ef00798afbfbff5be556b4414e",
+            "date": "2023-08-20T07:46:30Z",
+            "message": "update \ud83d\udeb6\u200d \u6700\u540e\u7684\u4f5c\u54c1 \ud83d\ude80 \u51c6\u5907\u8d77\u98de",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/27d08f38613ad1ef00798afbfbff5be556b4414e"
+          },
+          {
+            "sha": "3d92605bb5eb97a644efcbe31d2ef8975cf1b5a6",
+            "date": "2023-08-20T07:32:42Z",
+            "message": "update \ud83c\udf81 \u5f00\u542f\u6218\u5229\u54c1\u7bb1",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/3d92605bb5eb97a644efcbe31d2ef8975cf1b5a6"
+          },
+          {
+            "sha": "b8d2308df1a855d355b7358567bad3303b1cfc33",
+            "date": "2023-08-20T07:18:44Z",
+            "message": "update \ud83d\udc41\u200d\ud83d\udde8 \u6784\u9020\u968f\u673a\u5668",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/b8d2308df1a855d355b7358567bad3303b1cfc33"
+          },
+          {
+            "sha": "757491b49b891f76d5f13e870364778816cdf42f",
+            "date": "2023-08-20T07:10:15Z",
+            "message": "update \ud83d\udd00 \u4f7f\u7528Switchboard\u8fdb\u884c\u6218\u5229\u54c1\u7684\u968f\u673a\u5316",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/757491b49b891f76d5f13e870364778816cdf42f"
+          },
+          {
+            "sha": "13eaf024da3383bcdcfc66df4b62e611ce950a37",
+            "date": "2023-08-20T04:13:51Z",
+            "message": "update \u2699 \u521b\u5efa\u9f7f\u8f6e\u4ee3\u5e01 \ud83d\udea2 \u8239\u8236\u5468\u4ecb\u7ecd \ud83d\udcb0 \u6784\u5efa\u4e00\u4e2a\u6218\u5229\u54c1\u7bb1\u7a0b\u5e8f",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/13eaf024da3383bcdcfc66df4b62e611ce950a37"
+          },
+          {
+            "sha": "7384191247a42ec4a9f8baf7b60fcb4489bc1f7b",
+            "date": "2023-08-20T03:59:55Z",
+            "message": "update \ud83c\udfec \u524d\u7aef\u5f00\u53d1",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/7384191247a42ec4a9f8baf7b60fcb4489bc1f7b"
+          },
+          {
+            "sha": "4b4ab45de06fccfae061e32f47b464d1f92028ed",
+            "date": "2023-08-20T03:53:37Z",
+            "message": "update \ud83c\udf56 \u89e3\u9664\u4e0eAnchor\u7684\u8d28\u62bc",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/4b4ab45de06fccfae061e32f47b464d1f92028ed"
+          },
+          {
+            "sha": "7404ee8d3c26644fc3ef4b5cf1acd41275f46bc8",
+            "date": "2023-08-20T02:31:55Z",
+            "message": "update \ud83d\udcb8 \u4f7f\u7528Anchor\u8d4e\u56de",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/7404ee8d3c26644fc3ef4b5cf1acd41275f46bc8"
+          },
+          {
+            "sha": "cf158f22de5026025880e875f64eb5b3244bd6a8",
+            "date": "2023-08-20T02:26:00Z",
+            "message": "update \ud83e\udd69 \u4f7f\u7528Anchor\u8fdb\u884cNFT\u7684\u8d28\u62bc",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/cf158f22de5026025880e875f64eb5b3244bd6a8"
+          },
+          {
+            "sha": "ca913db575a3acf9acac1dabc1d5104470e95e22",
+            "date": "2023-08-20T02:04:51Z",
+            "message": "update \ud83c\udfa5 \u6253\u9020\u4e00\u6b3e\u4f18\u79c0\u7684\u7535\u5f71\u8bc4\u8bba\u7a0b\u5e8f",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/ca913db575a3acf9acac1dabc1d5104470e95e22"
+          },
+          {
+            "sha": "5f0e2b0b5ec88bf33b83fb74248c553db827ee8d",
+            "date": "2023-08-20T01:59:09Z",
+            "message": "update \ud83d\udc39 Anchor \u5230 Typescript",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/5f0e2b0b5ec88bf33b83fb74248c553db827ee8d"
+          },
+          {
+            "sha": "67febb188a03da37469b059ff37ea4f114590dc7",
+            "date": "2023-08-20T01:47:26Z",
+            "message": "update \u4f7f\u7528Anchor CPIs\u6784\u5efa",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/67febb188a03da37469b059ff37ea4f114590dc7"
+          },
+          {
+            "sha": "722c7dd53a6f2349e901f58ae69586cd45bf683e",
+            "date": "2023-08-20T01:35:11Z",
+            "message": "update \ud83d\udd00 Anchor\u7684CPIs",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/722c7dd53a6f2349e901f58ae69586cd45bf683e"
+          },
+          {
+            "sha": "aa771ec09076f02e04f23a7c9fcf4f93025fab86",
+            "date": "2023-08-19T13:26:50Z",
+            "message": "update \u4f7f\u7528Anchor PDA\u8fdb\u884c\u6784\u5efa",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/aa771ec09076f02e04f23a7c9fcf4f93025fab86"
+          },
+          {
+            "sha": "1153e6aea455c14fbc66dcac500bcc7bd7048ab8",
+            "date": "2023-08-19T13:07:31Z",
+            "message": "update \ud83d\udee3 Anchor\u4e2d\u7684PDA\uff08\u7a0b\u5e8f\u6d3e\u751f\u5730\u5740\uff09",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/1153e6aea455c14fbc66dcac500bcc7bd7048ab8"
+          },
+          {
+            "sha": "cb67917081257dacf742ef39e236d7809ba9d92a",
+            "date": "2023-08-19T13:02:43Z",
+            "message": "update \ud83e\uddf1 \u4f7f\u7528Anchor\u6846\u67b6\u8fdb\u884c\u5f00\u53d1",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/cb67917081257dacf742ef39e236d7809ba9d92a"
+          },
+          {
+            "sha": "b072feb393206d4b75b77b996433436b2e8127a6",
+            "date": "2023-08-19T12:58:57Z",
+            "message": "update \ud83d\udc1f Anchor \u6846\u67b6",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/b072feb393206d4b75b77b996433436b2e8127a6"
+          },
+          {
+            "sha": "98a3d81e13a7dc15aef33756cbafe23a4cc9f55a",
+            "date": "2023-08-19T07:57:51Z",
+            "message": "update \ud83d\udef3 \u8bbe\u7f6e Anchor",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/98a3d81e13a7dc15aef33756cbafe23a4cc9f55a"
+          },
+          {
+            "sha": "f4e60b7df9148107cc69f100789f4fc056f8b088",
+            "date": "2023-08-19T07:45:45Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/f4e60b7df9148107cc69f100789f4fc056f8b088"
+          },
+          {
+            "sha": "93492cfe970a121fb38790027f586da59bafc2bc",
+            "date": "2023-08-19T07:44:02Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/93492cfe970a121fb38790027f586da59bafc2bc"
+          },
+          {
+            "sha": "8004a9436442d87855b9ad37077677bcdd6cc5af",
+            "date": "2023-08-19T07:39:53Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/8004a9436442d87855b9ad37077677bcdd6cc5af"
+          },
+          {
+            "sha": "afc506813296cb2324f776948b0586cecf153544",
+            "date": "2023-08-19T07:35:37Z",
+            "message": "update \u5c06\u6240\u6709\u90e8\u5206\u6574\u5408\u5230\u4e00\u8d77",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/afc506813296cb2324f776948b0586cecf153544"
+          },
+          {
+            "sha": "625f839074ae975f6c914f5483b017a8e7ea5695",
+            "date": "2023-08-18T08:37:08Z",
+            "message": "update \u6784\u5efa\u4e00\u4e2a\u4ee3\u5e01\u94f8\u9020\u5668",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/625f839074ae975f6c914f5483b017a8e7ea5695"
+          },
+          {
+            "sha": "64f1b2e6d4c25cc35621812be87575998a89433f",
+            "date": "2023-08-18T08:13:50Z",
+            "message": "update \u6784\u5efa\u4e00\u4e2a\u8d28\u62bc\u7528\u6237\u754c\u9762",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/64f1b2e6d4c25cc35621812be87575998a89433f"
+          },
+          {
+            "sha": "40a32e528484c2907a3ae45468ea05e7b032119f",
+            "date": "2023-08-18T08:01:09Z",
+            "message": "update  \ud83d\ude33 \u4f7f\u7528Rust\u7f16\u5199\u6d4b\u8bd5",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/40a32e528484c2907a3ae45468ea05e7b032119f"
+          },
+          {
+            "sha": "a4c80d810aafcb1ab47c657f2396db2b83d34dfc",
+            "date": "2023-08-18T07:55:39Z",
+            "message": "update \ud83e\uddea \u6d4b\u8bd5 Solana \u7a0b\u5e8f",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/a4c80d810aafcb1ab47c657f2396db2b83d34dfc"
+          },
+          {
+            "sha": "92aa39ad384e2755bec7219c409b5dc191c2cb88",
+            "date": "2023-08-18T06:15:32Z",
+            "message": "update  \ud83d\udcb8 \u4f7f\u7528CPI\u6784\u5efa\u652f\u4ed8\u7cfb\u7edf",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/92aa39ad384e2755bec7219c409b5dc191c2cb88"
+          },
+          {
+            "sha": "9678bc4489cfe9c20b2142d807d63fc49e542878",
+            "date": "2023-08-18T06:10:15Z",
+            "message": "update \ud83e\udd47 \u4e3a\u7528\u6237\u94f8\u9020\u4ee3\u5e01",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/9678bc4489cfe9c20b2142d807d63fc49e542878"
+          },
+          {
+            "sha": "c557ab687ef39c7c2181fd3f88266c4694f01ee9",
+            "date": "2023-08-18T06:05:03Z",
+            "message": "update \u2694 \u8de8\u9879\u76ee\u7684Boss\u6218",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/c557ab687ef39c7c2181fd3f88266c4694f01ee9"
+          },
+          {
+            "sha": "53d3c4127515a13b25ad94855e0fb8ac0ffc1e84",
+            "date": "2023-08-18T05:55:59Z",
+            "message": "update \ud83d\udcac \u94fe\u4e0a\u8bc4\u8bba\u529f\u80fd\u7684\u6784\u5efa",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/53d3c4127515a13b25ad94855e0fb8ac0ffc1e84"
+          },
+          {
+            "sha": "6adaea6e2cca33268bd724b9291ada352f4f3fa0",
+            "date": "2023-08-18T05:24:05Z",
+            "message": "update \ud83e\uddd0 PDA\u6df1\u5165\u63a2\u7a76",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/6adaea6e2cca33268bd724b9291ada352f4f3fa0"
+          },
+          {
+            "sha": "fd482a8fba68a1430277a555095fc6463dee0eb4",
+            "date": "2023-08-18T05:04:03Z",
+            "message": "update \ud83d\udee0\ufe0f \u6784\u5efaNFT\u8d28\u62bc\u7a0b\u5e8f",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/fd482a8fba68a1430277a555095fc6463dee0eb4"
+          },
+          {
+            "sha": "232fef85f9978ad2cd6d5e7ab8ac92f9ed1d26fc",
+            "date": "2023-08-18T04:51:53Z",
+            "message": "update \ud83d\udd52 \u8d28\u62bc\u5de5\u4f5c\u673a\u5236\u8be6\u89e3",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/232fef85f9978ad2cd6d5e7ab8ac92f9ed1d26fc"
+          },
+          {
+            "sha": "16a6bef0de2146d0c64a44582f0874524d2ab2eb",
+            "date": "2023-08-18T04:48:12Z",
+            "message": "update \ud83d\udd11 \u4fdd\u62a4\u6211\u4eec\u7684\u7a0b\u5e8f",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/16a6bef0de2146d0c64a44582f0874524d2ab2eb"
+          },
+          {
+            "sha": "23c11b4ad6b67f7dd86e8116e442c4ff19c78be2",
+            "date": "2023-08-18T03:33:20Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/23c11b4ad6b67f7dd86e8116e442c4ff19c78be2"
+          },
+          {
+            "sha": "e2691493cddd57ad2d85db652b222607b19e0c1e",
+            "date": "2023-08-18T03:30:37Z",
+            "message": "update \u2757 \u9519\u8bef\u5904\u7406\u548c\u6570\u636e\u9a8c\u8bc1",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/e2691493cddd57ad2d85db652b222607b19e0c1e"
+          },
+          {
+            "sha": "f3bbbff16497ff628e71d512641e77357451214d",
+            "date": "2023-08-18T03:26:47Z",
+            "message": "update \ud83e\udd20 \u72b6\u6001\u7ba1\u7406",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/f3bbbff16497ff628e71d512641e77357451214d"
+          },
+          {
+            "sha": "b99299416718a80fc841da43a99ea33ea0c7cfb3",
+            "date": "2023-08-17T08:14:10Z",
+            "message": "update \ud83c\udfa5 \u6784\u5efa\u4e00\u4e2a\u7535\u5f71\u8bc4\u8bba\u7a0b\u5e8f",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/b99299416718a80fc841da43a99ea33ea0c7cfb3"
+          },
+          {
+            "sha": "91c45bc04004017e8c5b6c95cf8bbf32b2815aee",
+            "date": "2023-08-17T08:01:37Z",
+            "message": "update \ud83c\udf82 Rust\u7684\u5206\u5c42\u86cb\u7cd5",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/91c45bc04004017e8c5b6c95cf8bbf32b2815aee"
+          },
+          {
+            "sha": "35afde374afd2b9313223f992e381a4b25fe0929",
+            "date": "2023-08-17T07:38:19Z",
+            "message": "update \ud83d\udc4b \u4e0e\u4f60\u90e8\u7f72\u7684\u7a0b\u5e8f\u4e92\u52a8",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/35afde374afd2b9313223f992e381a4b25fe0929"
+          },
+          {
+            "sha": "8d4dac79be5b628d8fd4c261d8b1cd5aba2df54b",
+            "date": "2023-08-17T07:32:18Z",
+            "message": "update \ud83d\udcdd \u4f60\u597d\uff0c\u4e16\u754c",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/8d4dac79be5b628d8fd4c261d8b1cd5aba2df54b"
+          },
+          {
+            "sha": "777c046afc58d5539fc7199b253fdf452823c691",
+            "date": "2023-08-17T07:01:24Z",
+            "message": "update \u2728 \u9b54\u6cd5\u4e92\u8054\u7f51\u8ba1\u7b97\u673a",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/777c046afc58d5539fc7199b253fdf452823c691"
+          },
+          {
+            "sha": "5c7bc480528d8b9e01dfea2abd278bc5e48a73ce",
+            "date": "2023-08-17T06:45:07Z",
+            "message": "update \ud83c\udfa8 \u521b\u5efa\u94f8\u5e01\u7528\u6237\u754c\u9762 and update \ud83c\udf6c \u521b\u5efa\u7cd6\u679c\u673a",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/5c7bc480528d8b9e01dfea2abd278bc5e48a73ce"
+          },
+          {
+            "sha": "949c68875c4cc230339a371963d31c45dd857a29",
+            "date": "2023-08-17T06:33:49Z",
+            "message": "update \ud83c\udfa8 \u521b\u5efa\u5956\u52b1\u4ee3\u5e01 and update \u60a8 to \u4f60",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/949c68875c4cc230339a371963d31c45dd857a29"
+          },
+          {
+            "sha": "c87e33a25c8215317160120ca7721fcea118b149",
+            "date": "2023-08-16T13:07:13Z",
+            "message": "update Anchor \u5408\u7ea6\u6846\u67b6\u5b9e\u73b0 - hello, World \ud83c\udf0d With PDA",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/c87e33a25c8215317160120ca7721fcea118b149"
+          },
+          {
+            "sha": "6a30a00e139245b66bc7d21fff44e2ce7ba11e2b",
+            "date": "2023-08-16T12:20:35Z",
+            "message": "update \ud83d\uddbc \u4ece\u7cd6\u679c\u673a\u5c55\u793aNFTs",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/6a30a00e139245b66bc7d21fff44e2ce7ba11e2b"
+          },
+          {
+            "sha": "09cd04a95a6ac28a2cee551118585cb5c361321b",
+            "date": "2023-08-16T12:14:00Z",
+            "message": "update \ud83d\udcf1 \u5728\u94b1\u5305\u4e2d\u5c55\u793aNFTs",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/09cd04a95a6ac28a2cee551118585cb5c361321b"
+          },
+          {
+            "sha": "24e9348eac8a6cb6b09a83534600d5a05b26e138",
+            "date": "2023-08-16T12:10:57Z",
+            "message": "update \u5c55\u793aNFTs \ud83d\udc83",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/24e9348eac8a6cb6b09a83534600d5a05b26e138"
+          },
+          {
+            "sha": "677318ee4ce499ea1b91e0d55cec30af1bbb6172",
+            "date": "2023-08-16T12:08:48Z",
+            "message": "update \ud83c\udf6d \u7cd6\u679c\u673a\u548cSugar CLI",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/677318ee4ce499ea1b91e0d55cec30af1bbb6172"
+          },
+          {
+            "sha": "a4e32e5eef0cb2baf25db3870b1068e21b252292",
+            "date": "2023-08-16T11:59:55Z",
+            "message": "udpate \ud83e\udd28 NFT\u4f60\u7684\u8138",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/a4e32e5eef0cb2baf25db3870b1068e21b252292"
+          },
+          {
+            "sha": "8723960b1576f2979cde368ccd72bb311cd0991a",
+            "date": "2023-08-16T11:56:07Z",
+            "message": "update \ud83c\udfa8 Solana\u4e0a\u7684NFT",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/8723960b1576f2979cde368ccd72bb311cd0991a"
+          },
+          {
+            "sha": "4f1ad90aeaf93cda76cda9c3a5054a28c70550a1",
+            "date": "2023-08-16T11:52:23Z",
+            "message": "update \ud83e\uddec \u4e3a\u4f60\u7684\u4ee3\u5e01\u8d4b\u4e88\u8eab\u4efd",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/4f1ad90aeaf93cda76cda9c3a5054a28c70550a1"
+          },
+          {
+            "sha": "4972c47e2954409a9ee16462ac4fb8bc152ce545",
+            "date": "2023-08-16T08:52:31Z",
+            "message": "Update README: modified token description",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/4972c47e2954409a9ee16462ac4fb8bc152ce545"
+          },
+          {
+            "sha": "a077908c1cbb7a18872eefd7bef25e8fc9888a8e",
+            "date": "2023-08-16T08:51:07Z",
+            "message": "update \ud83e\uddee \u4ee4\u724c\u5143\u6570\u636e",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/a077908c1cbb7a18872eefd7bef25e8fc9888a8e"
+          },
+          {
+            "sha": "d1ea690464b51ff839deb990aa6155efc462c541",
+            "date": "2023-08-16T08:43:49Z",
+            "message": "update \ud83c\udfe7 \u5728Solana\u4e0a\u94f8\u9020\u4ee3\u5e01",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/d1ea690464b51ff839deb990aa6155efc462c541"
+          },
+          {
+            "sha": "f3636c6b9bd19f06871b83fa4c86f994d3010336",
+            "date": "2023-08-16T08:30:12Z",
+            "message": "update \ud83d\udcb5 \u4ee3\u5e01\u7a0b\u5e8f",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/f3636c6b9bd19f06871b83fa4c86f994d3010336"
+          },
+          {
+            "sha": "7908956cba133e0058262289d7df9c9c3bdfd6d0",
+            "date": "2023-08-16T08:20:48Z",
+            "message": "remove \u4f7f\u7528Token\u7a0b\u5e8f\u521b\u5efa\u4ee4\u724c",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/7908956cba133e0058262289d7df9c9c3bdfd6d0"
+          },
+          {
+            "sha": "c7989131e2d4e23f609da0e276c036cf388a0bc2",
+            "date": "2023-08-16T08:19:37Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/c7989131e2d4e23f609da0e276c036cf388a0bc2"
+          },
+          {
+            "sha": "7114b330d9134638640aa257a17e82320f0c0911",
+            "date": "2023-08-16T07:37:26Z",
+            "message": "update Solana\u94b1\u5305\u4f7f\u7528 - Backpack \ud83c\udf92",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/7114b330d9134638640aa257a17e82320f0c0911"
+          },
+          {
+            "sha": "8793ce8c1b0a30f4e9972035dc47ec38a3ad9a59",
+            "date": "2023-08-16T07:33:06Z",
+            "message": "update \ud83c\udf10 \u90e8\u7f72\u5230 Vercel",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/8793ce8c1b0a30f4e9972035dc47ec38a3ad9a59"
+          },
+          {
+            "sha": "7a9ffa5e44c74e63f1489aff92c7dac2ef2013e6",
+            "date": "2023-08-16T07:31:55Z",
+            "message": "update \ud83d\udcbb \u6784\u5efa NFT \u94f8\u9020\u8005\u524d\u7aef",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/7a9ffa5e44c74e63f1489aff92c7dac2ef2013e6"
+          },
+          {
+            "sha": "2395a1e21e4788db8d77590250d8b942b91d4ae3",
+            "date": "2023-08-16T07:22:33Z",
+            "message": "update \ud83d\udce1 Run is back - \u53cd\u5e8f\u5217\u5316",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/2395a1e21e4788db8d77590250d8b942b91d4ae3"
+          },
+          {
+            "sha": "85b86188c199e8c44a5cc949fb9aa1cdffcaa62f",
+            "date": "2023-08-16T07:04:35Z",
+            "message": "update \ud83c\udfa5 \u6784\u5efa\u4e00\u4e2a\u7535\u5f71\u8bc4\u8bba\u5e94\u7528",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/85b86188c199e8c44a5cc949fb9aa1cdffcaa62f"
+          },
+          {
+            "sha": "4da7f3d3fd12bfd399d21ce7525cfb94d4766bea",
+            "date": "2023-08-16T06:52:15Z",
+            "message": "update \ud83e\udd14 \u81ea\u5b9a\u4e49\u6307\u4ee4",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/4da7f3d3fd12bfd399d21ce7525cfb94d4766bea"
+          },
+          {
+            "sha": "aec8e93e9dbe5036d9dc10bf5f1c94fb80f2c418",
+            "date": "2023-08-16T05:41:58Z",
+            "message": "update \ud83e\uddba \u4e0e\u7a0b\u5e8f\u8fdb\u884c\u4ea4\u4e92",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/aec8e93e9dbe5036d9dc10bf5f1c94fb80f2c418"
+          },
+          {
+            "sha": "c585b034b2ae13cee0ec8ce99eb6b6fb5a67b3af",
+            "date": "2023-08-16T05:38:47Z",
+            "message": "update \ud83d\udd0c \u8fde\u63a5\u5230\u94b1\u5305",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/c585b034b2ae13cee0ec8ce99eb6b6fb5a67b3af"
+          },
+          {
+            "sha": "b967287d6f9a07b4f92d5fe4db3bd98f21a4098e",
+            "date": "2023-08-16T01:58:31Z",
+            "message": "update \ud83d\udcdd \u6784\u5efa\u4e00\u4e2a\u4e92\u52a8\u811a\u672c",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/b967287d6f9a07b4f92d5fe4db3bd98f21a4098e"
+          },
+          {
+            "sha": "78bdc5bc98c8f3bfe85af3c1dcffe7f2f6eaee00",
+            "date": "2023-08-16T01:35:18Z",
+            "message": "Merge pull request #6 from v1xingyue/main-1\n\nUpdate github-page.yml",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/78bdc5bc98c8f3bfe85af3c1dcffe7f2f6eaee00"
+          },
+          {
+            "sha": "0274ffd9970e34a3d5cfb267797781361a585e5b",
+            "date": "2023-08-15T11:53:45Z",
+            "message": "update \u270d\u5c06\u6570\u636e\u5199\u5165\u533a\u5757\u94fe",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/0274ffd9970e34a3d5cfb267797781361a585e5b"
+          },
+          {
+            "sha": "b9ff0132f368e567c51212d26dd2480f68558d68",
+            "date": "2023-08-15T09:55:34Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/b9ff0132f368e567c51212d26dd2480f68558d68"
+          },
+          {
+            "sha": "8721e516dc787fcfc6481063e1ba9599d8843d3f",
+            "date": "2023-08-15T01:10:35Z",
+            "message": "Merge pull request #5 from v1xingyue/main",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/8721e516dc787fcfc6481063e1ba9599d8843d3f"
+          },
+          {
+            "sha": "5ebc4b8c7b7230716c40ad12020d4ed5e9e9e94a",
+            "date": "2023-08-15T00:56:54Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/5ebc4b8c7b7230716c40ad12020d4ed5e9e9e94a"
+          },
+          {
+            "sha": "91850b7ca05ebf1a0ef960a72f043a14f2ab5d74",
+            "date": "2023-08-15T00:53:02Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/91850b7ca05ebf1a0ef960a72f043a14f2ab5d74"
+          },
+          {
+            "sha": "0b0d0c363249e04d1c4d4522331897d3a8dff378",
+            "date": "2023-08-15T00:46:18Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/0b0d0c363249e04d1c4d4522331897d3a8dff378"
+          },
+          {
+            "sha": "974c6c34275861ee0015cb54723847afd117d42a",
+            "date": "2023-08-15T00:45:33Z",
+            "message": "add block-chain basic",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/974c6c34275861ee0015cb54723847afd117d42a"
+          },
+          {
+            "sha": "5aa68cc1ee4e2c88725e3c0d0e6d95d481be56e0",
+            "date": "2023-08-14T12:44:14Z",
+            "message": "updaet",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/5aa68cc1ee4e2c88725e3c0d0e6d95d481be56e0"
+          },
+          {
+            "sha": "45e334b3e3e72110d330cd1fbaa5eb3330344805",
+            "date": "2023-08-14T02:03:58Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/45e334b3e3e72110d330cd1fbaa5eb3330344805"
+          },
+          {
+            "sha": "be349693426169519029ff8dae7639dd2c120a4f",
+            "date": "2023-08-13T13:05:36Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/be349693426169519029ff8dae7639dd2c120a4f"
+          },
+          {
+            "sha": "d7a11d2585dd03991262bfd6027dbdfa7750e5a1",
+            "date": "2023-08-13T12:55:41Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/d7a11d2585dd03991262bfd6027dbdfa7750e5a1"
+          },
+          {
+            "sha": "da268e86a512d8b7d0f8cf3e8a77585c799b2ada",
+            "date": "2023-08-13T12:38:00Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/da268e86a512d8b7d0f8cf3e8a77585c799b2ada"
+          },
+          {
+            "sha": "90fd211f3037dadb23ad1a0c7b65eaf93e8d4f68",
+            "date": "2023-08-13T08:57:47Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/90fd211f3037dadb23ad1a0c7b65eaf93e8d4f68"
+          },
+          {
+            "sha": "6f96da26b655d6751dcbbf3c294d56c06fe49c83",
+            "date": "2023-08-13T05:16:43Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/6f96da26b655d6751dcbbf3c294d56c06fe49c83"
+          },
+          {
+            "sha": "a30c12c2c399ef8bbed4dbce375b59470bb2838d",
+            "date": "2023-08-13T05:13:50Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/a30c12c2c399ef8bbed4dbce375b59470bb2838d"
+          },
+          {
+            "sha": "5ac881ef7978df0a5cc256758145050c14b7c73f",
+            "date": "2023-08-12T16:20:02Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/5ac881ef7978df0a5cc256758145050c14b7c73f"
+          },
+          {
+            "sha": "54b148fae5e3ce5b94ea536fdde943c787ce5c8c",
+            "date": "2023-08-12T04:48:14Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/54b148fae5e3ce5b94ea536fdde943c787ce5c8c"
+          },
+          {
+            "sha": "500e79d4437426e496f99ff6b8f3dae56fd4926e",
+            "date": "2023-08-12T03:49:49Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/500e79d4437426e496f99ff6b8f3dae56fd4926e"
+          },
+          {
+            "sha": "a30c809638897b1a640f1aa9278a5861e0c244a0",
+            "date": "2023-08-11T13:26:53Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/a30c809638897b1a640f1aa9278a5861e0c244a0"
+          },
+          {
+            "sha": "25711472d717337d5dd73239e05b9af46ac20a70",
+            "date": "2023-08-11T05:03:59Z",
+            "message": "Update intro.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/25711472d717337d5dd73239e05b9af46ac20a70"
+          },
+          {
+            "sha": "38c62edd65a05e28c32a0d47dd5ea08e5d2db4ca",
+            "date": "2023-08-10T12:27:19Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/38c62edd65a05e28c32a0d47dd5ea08e5d2db4ca"
+          },
+          {
+            "sha": "b9eb5a1f27a4775a1ec69e85a89ae032c2da9b89",
+            "date": "2023-08-10T12:20:21Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/b9eb5a1f27a4775a1ec69e85a89ae032c2da9b89"
+          },
+          {
+            "sha": "3c300ede1fa73e0ba36ceafcbbd0941324fa5542",
+            "date": "2023-08-10T07:57:56Z",
+            "message": "Update intro.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/3c300ede1fa73e0ba36ceafcbbd0941324fa5542"
+          },
+          {
+            "sha": "6ce28ab9f41ce063ab83d8f22d059a055b350941",
+            "date": "2023-08-10T07:35:54Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/6ce28ab9f41ce063ab83d8f22d059a055b350941"
+          },
+          {
+            "sha": "8f3fb548105990d34871e6ae952bd875c9115f83",
+            "date": "2023-08-10T07:25:54Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/8f3fb548105990d34871e6ae952bd875c9115f83"
+          },
+          {
+            "sha": "fb0dae1ab3819a5be7e837e30d1dd52129611fd7",
+            "date": "2023-08-10T07:21:21Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/fb0dae1ab3819a5be7e837e30d1dd52129611fd7"
+          },
+          {
+            "sha": "84d59bc57491f75745238fca7085c2cb77ff8f07",
+            "date": "2023-08-10T06:55:47Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/84d59bc57491f75745238fca7085c2cb77ff8f07"
+          },
+          {
+            "sha": "81c510ac3f835ea726637546a1a977f50e253259",
+            "date": "2023-08-10T06:36:09Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/81c510ac3f835ea726637546a1a977f50e253259"
+          },
+          {
+            "sha": "5896b4b597ecaee9fdcc7e2f4daa38d39e136dc5",
+            "date": "2023-08-10T05:38:37Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/5896b4b597ecaee9fdcc7e2f4daa38d39e136dc5"
+          },
+          {
+            "sha": "4d0852d7791519761b878a5e14137bb93138adaa",
+            "date": "2023-08-10T00:39:36Z",
+            "message": "Merge pull request #4 from v1xingyue/main",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/4d0852d7791519761b878a5e14137bb93138adaa"
+          },
+          {
+            "sha": "f2da0afd0d04e77c4fab68a31dab33a5a672e093",
+            "date": "2023-08-10T00:11:04Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/f2da0afd0d04e77c4fab68a31dab33a5a672e093"
+          },
+          {
+            "sha": "2054dde13e4fb779155aacb9d80ed2e6d58d3489",
+            "date": "2023-08-09T15:54:28Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/2054dde13e4fb779155aacb9d80ed2e6d58d3489"
+          },
+          {
+            "sha": "01a1ece62e37dc87bd0bfb03e30beb498ee2e7c6",
+            "date": "2023-08-09T11:56:51Z",
+            "message": "add ship-s-staking app",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/01a1ece62e37dc87bd0bfb03e30beb498ee2e7c6"
+          },
+          {
+            "sha": "89d7eec2df125d7516d68895656079fc9eca1af6",
+            "date": "2023-08-09T09:17:23Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/89d7eec2df125d7516d68895656079fc9eca1af6"
+          },
+          {
+            "sha": "2bb9625e0050917d518dc4315730da7fffb2c7e5",
+            "date": "2023-08-09T06:10:09Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/2bb9625e0050917d518dc4315730da7fffb2c7e5"
+          },
+          {
+            "sha": "8b61c058e8465dcad84c956b2212479767ad9e9e",
+            "date": "2023-08-09T04:37:10Z",
+            "message": "add build on chain comments",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/8b61c058e8465dcad84c956b2212479767ad9e9e"
+          },
+          {
+            "sha": "afcb910671481f9220a4decfbe7b98b9604c7ca8",
+            "date": "2023-08-09T04:13:27Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/afcb910671481f9220a4decfbe7b98b9604c7ca8"
+          },
+          {
+            "sha": "e9b8d824f5afeb4d74402b8489ee2831de53bf49",
+            "date": "2023-08-09T03:53:03Z",
+            "message": "Merge branch 'main' of https://github.com/CreatorsDAO/all-in-one-solana",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/e9b8d824f5afeb4d74402b8489ee2831de53bf49"
+          },
+          {
+            "sha": "0382d6ae5cd20e97bee95e466bd6a1e73dccd5c7",
+            "date": "2023-08-09T03:52:24Z",
+            "message": "add a blog",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/0382d6ae5cd20e97bee95e466bd6a1e73dccd5c7"
+          },
+          {
+            "sha": "051e423a769cb52fec93a5086f09055d020fec1a",
+            "date": "2023-08-09T03:47:19Z",
+            "message": "Merge pull request #3 from v1xingyue/main-1\n\nCreate github-page.yml",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/051e423a769cb52fec93a5086f09055d020fec1a"
+          },
+          {
+            "sha": "9747c0d3e470efc8f20dfba0f796a1c9d1e382ef",
+            "date": "2023-08-09T03:31:12Z",
+            "message": "Update docusaurus.config.js",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/9747c0d3e470efc8f20dfba0f796a1c9d1e382ef"
+          },
+          {
+            "sha": "3020e987e7dc023e884e6b765f2d4cb433a9d4b3",
+            "date": "2023-08-09T03:28:31Z",
+            "message": "Update docusaurus.config.js",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/3020e987e7dc023e884e6b765f2d4cb433a9d4b3"
+          },
+          {
+            "sha": "04b754d49f660cd1cebeae9be9ba762332b86e8c",
+            "date": "2023-08-09T03:07:03Z",
+            "message": "updaet",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/04b754d49f660cd1cebeae9be9ba762332b86e8c"
+          },
+          {
+            "sha": "d831c2a14b54328d2901530281ba7f29a70c6e21",
+            "date": "2023-08-09T00:19:51Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/d831c2a14b54328d2901530281ba7f29a70c6e21"
+          },
+          {
+            "sha": "b50d0666f1af30e5473f5b911f991f8a180dda8e",
+            "date": "2023-08-08T16:02:32Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/b50d0666f1af30e5473f5b911f991f8a180dda8e"
+          },
+          {
+            "sha": "fa71b189f21a96d8ef15fb9073773a5508b91e8d",
+            "date": "2023-08-08T14:46:11Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/fa71b189f21a96d8ef15fb9073773a5508b91e8d"
+          },
+          {
+            "sha": "eefd87ef93d6b562121ece6ee935738a0e0cdc7a",
+            "date": "2023-08-08T14:28:11Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/eefd87ef93d6b562121ece6ee935738a0e0cdc7a"
+          },
+          {
+            "sha": "29c3c431b9029c1c364c46fea86e7681b1e4245c",
+            "date": "2023-08-08T13:08:14Z",
+            "message": "Update intro.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/29c3c431b9029c1c364c46fea86e7681b1e4245c"
+          },
+          {
+            "sha": "55b07352e188b5760beb791a875c8e80de0233f0",
+            "date": "2023-08-08T13:07:39Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/55b07352e188b5760beb791a875c8e80de0233f0"
+          },
+          {
+            "sha": "7515de3db0b09259fe6cd273b2c88dfee3406e0e",
+            "date": "2023-08-08T07:23:10Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/7515de3db0b09259fe6cd273b2c88dfee3406e0e"
+          },
+          {
+            "sha": "57fd8e4d3054c3f61c534182e057a99e01a38515",
+            "date": "2023-08-08T05:46:21Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/57fd8e4d3054c3f61c534182e057a99e01a38515"
+          },
+          {
+            "sha": "6ddade045d7218bf7381310dc6cb21a0a583ab19",
+            "date": "2023-08-08T03:29:57Z",
+            "message": "add module3",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/6ddade045d7218bf7381310dc6cb21a0a583ab19"
+          },
+          {
+            "sha": "97899789215990fcc458c4c12772ccb0e8a81046",
+            "date": "2023-08-08T01:32:57Z",
+            "message": "Update intro.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/97899789215990fcc458c4c12772ccb0e8a81046"
+          },
+          {
+            "sha": "ed93911668ffdf147b6cc7d55574b3c5c103ad0f",
+            "date": "2023-08-08T01:24:27Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/ed93911668ffdf147b6cc7d55574b3c5c103ad0f"
+          },
+          {
+            "sha": "a9afbf2f7eabbecd7630cc58f8792ecef80c98f4",
+            "date": "2023-08-08T01:20:16Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/a9afbf2f7eabbecd7630cc58f8792ecef80c98f4"
+          },
+          {
+            "sha": "610be00f9220a2ba51136df293c78d4f570f5985",
+            "date": "2023-08-06T15:45:01Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/610be00f9220a2ba51136df293c78d4f570f5985"
+          },
+          {
+            "sha": "119d0378518e09415b3de7d2c0b6189282beccea",
+            "date": "2023-08-06T13:34:47Z",
+            "message": "add displaying nfts",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/119d0378518e09415b3de7d2c0b6189282beccea"
+          },
+          {
+            "sha": "c899af52bef4e7b3cc00d882cb9f9af6277a97ab",
+            "date": "2023-08-06T13:16:53Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/c899af52bef4e7b3cc00d882cb9f9af6277a97ab"
+          },
+          {
+            "sha": "63b72020eb42ab1f9e0fa995ad69296b05b8c618",
+            "date": "2023-08-04T03:07:30Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/63b72020eb42ab1f9e0fa995ad69296b05b8c618"
+          },
+          {
+            "sha": "999c7346878f34bee81928e2701298d56be5f775",
+            "date": "2023-08-04T02:30:08Z",
+            "message": "add candy-machine-and-sugar-cli",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/999c7346878f34bee81928e2701298d56be5f775"
+          },
+          {
+            "sha": "599f81e82001e5bf5769a3bf2ad38ff1f753c705",
+            "date": "2023-08-04T01:24:15Z",
+            "message": "add nft on solana",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/599f81e82001e5bf5769a3bf2ad38ff1f753c705"
+          },
+          {
+            "sha": "60fc19ebc4c737e0bf3072af0e394df089454d38",
+            "date": "2023-08-03T22:26:39Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/60fc19ebc4c737e0bf3072af0e394df089454d38"
+          },
+          {
+            "sha": "2ff927d59e5de0309d500d35064556a92b978dc3",
+            "date": "2023-08-03T16:45:30Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/2ff927d59e5de0309d500d35064556a92b978dc3"
+          },
+          {
+            "sha": "8e5cd3f1cd06d16c628fd015a50cbeeae8f98160",
+            "date": "2023-08-03T16:39:02Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/8e5cd3f1cd06d16c628fd015a50cbeeae8f98160"
+          },
+          {
+            "sha": "02fca66b18c113069e349ac28b734eb238277470",
+            "date": "2023-08-03T16:30:38Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/02fca66b18c113069e349ac28b734eb238277470"
+          },
+          {
+            "sha": "d0c562d38ea32404385f0ed2d6fce3833ab81adb",
+            "date": "2023-08-03T11:22:12Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/d0c562d38ea32404385f0ed2d6fce3833ab81adb"
+          },
+          {
+            "sha": "2a306f587c93e6dd848af3a97162512c341e2ec6",
+            "date": "2023-08-03T10:56:47Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/2a306f587c93e6dd848af3a97162512c341e2ec6"
+          },
+          {
+            "sha": "ea774e3dc930ad4eb8fc3508328e0e9c04e3d4d9",
+            "date": "2023-08-03T10:32:33Z",
+            "message": "Refactor README.md: Updated Chinese translation and variable name",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/ea774e3dc930ad4eb8fc3508328e0e9c04e3d4d9"
+          },
+          {
+            "sha": "2ab9945ccc08ea4fcab6c3a953a089068252a8ee",
+            "date": "2023-08-03T09:44:20Z",
+            "message": "add the token program",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/2ab9945ccc08ea4fcab6c3a953a089068252a8ee"
+          },
+          {
+            "sha": "3c177405e38b9206d72c1702684000d1bbb4dc4e",
+            "date": "2023-08-03T08:35:10Z",
+            "message": "add mint token",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/3c177405e38b9206d72c1702684000d1bbb4dc4e"
+          },
+          {
+            "sha": "c7c5891b4252f3aa2bd465e88f940ec68a4a7a0d",
+            "date": "2023-08-03T05:01:10Z",
+            "message": "Update sidebar positions for Solana-Co-Learn documentation",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/c7c5891b4252f3aa2bd465e88f940ec68a4a7a0d"
+          },
+          {
+            "sha": "558ccce5f96180c30f93ea07ed537f2c99abdf1f",
+            "date": "2023-08-03T04:44:26Z",
+            "message": "Update Solana Co-Learn week 2 README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/558ccce5f96180c30f93ea07ed537f2c99abdf1f"
+          },
+          {
+            "sha": "6b8a10316e33e2a04b7e70ade7385a74730ad98a",
+            "date": "2023-08-03T04:32:01Z",
+            "message": "Refactor README.md for Solana NFT minter front-end, as per diff.",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/6b8a10316e33e2a04b7e70ade7385a74730ad98a"
+          },
+          {
+            "sha": "22bb5da31692dc7bae0e7839564bda26fe2dc09c",
+            "date": "2023-08-03T04:24:47Z",
+            "message": "Refactor and optimize code for deserialization",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/22bb5da31692dc7bae0e7839564bda26fe2dc09c"
+          },
+          {
+            "sha": "f0dbbc8255e173400de605446420107591fea6cb",
+            "date": "2023-08-03T04:16:21Z",
+            "message": "Refactor code: Updated README.md, fixed imports, improved serialization process, and added error handling.",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/f0dbbc8255e173400de605446420107591fea6cb"
+          },
+          {
+            "sha": "a9688cb7e3a896d2b49bbef76e062d35c6674386",
+            "date": "2023-08-03T04:08:53Z",
+            "message": "Refactor README.md file: improve translations, clarify concepts, and enhance readability.",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/a9688cb7e3a896d2b49bbef76e062d35c6674386"
+          },
+          {
+            "sha": "2f7e6681f7230b3dd91b6502db213670721d09fa",
+            "date": "2023-08-03T04:03:02Z",
+            "message": "Update wallet interaction and PingButton, add Ship challenge, compare with solution.",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/2f7e6681f7230b3dd91b6502db213670721d09fa"
+          },
+          {
+            "sha": "fac020ffd56e4091acf4035e386cbba3278a5f38",
+            "date": "2023-08-03T03:58:55Z",
+            "message": "Update wallet connection and dependencies",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/fac020ffd56e4091acf4035e386cbba3278a5f38"
+          },
+          {
+            "sha": "aaabba1cdc40f9c7b2dbf881686b9a014a7e08a5",
+            "date": "2023-08-03T03:40:04Z",
+            "message": "Refactor README.md file for Solana Co-Learn client-side development.",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/aaabba1cdc40f9c7b2dbf881686b9a014a7e08a5"
+          },
+          {
+            "sha": "98a4127ea38882d04731a0f2cb6edc34059b1b63",
+            "date": "2023-08-03T03:31:13Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/98a4127ea38882d04731a0f2cb6edc34059b1b63"
+          },
+          {
+            "sha": "6f923a26a1550a49b74c56e027fb281547277d30",
+            "date": "2023-08-03T03:17:11Z",
+            "message": "Update index.js",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/6f923a26a1550a49b74c56e027fb281547277d30"
+          },
+          {
+            "sha": "fadc33a3b8ff034a5c60b65df5b6e871b40863b6",
+            "date": "2023-08-03T02:54:27Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/fadc33a3b8ff034a5c60b65df5b6e871b40863b6"
+          },
+          {
+            "sha": "3e5aa16c6e90a1888b676604445e793ee29870db",
+            "date": "2023-08-03T02:23:03Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/3e5aa16c6e90a1888b676604445e793ee29870db"
+          },
+          {
+            "sha": "bb06652156ce372f5b1200d589140adfd78210a1",
+            "date": "2023-08-03T02:18:31Z",
+            "message": "add wallet use",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/bb06652156ce372f5b1200d589140adfd78210a1"
+          },
+          {
+            "sha": "fcf18e11adfcee7c9f4ed7e4c706373a9bb97d0e",
+            "date": "2023-08-03T01:42:34Z",
+            "message": "Refactored README.md - Added token2022 and compressed NFT creation, Removed token2020 and compression NFT issuance",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/fcf18e11adfcee7c9f4ed7e4c706373a9bb97d0e"
+          },
+          {
+            "sha": "99176366524b005d0c74de6ab45099a0294c3b94",
+            "date": "2023-08-03T01:40:43Z",
+            "message": "Update sidebar labels for Solana-Co-Learn weeks.",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/99176366524b005d0c74de6ab45099a0294c3b94"
+          },
+          {
+            "sha": "1ba6a57f5dd4a7ce2b0d3c2ad3c4ed38b3cf36bc",
+            "date": "2023-08-03T01:11:38Z",
+            "message": "Refactor account field names in Solana Co-Learn docs",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/1ba6a57f5dd4a7ce2b0d3c2ad3c4ed38b3cf36bc"
+          },
+          {
+            "sha": "42668547c51bdaadcf68127a98f136ec285a0caa",
+            "date": "2023-08-03T01:08:59Z",
+            "message": "Fix typo in file paths for Vercel deployment",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/42668547c51bdaadcf68127a98f136ec285a0caa"
+          },
+          {
+            "sha": "08d875a21fa65827d68f4ad8c7318c184c0ad0ec",
+            "date": "2023-08-03T01:05:41Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/08d875a21fa65827d68f4ad8c7318c184c0ad0ec"
+          },
+          {
+            "sha": "6026b5dd90fcd6702794585a72535cf6aed8dc71",
+            "date": "2023-08-03T01:02:50Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/6026b5dd90fcd6702794585a72535cf6aed8dc71"
+          },
+          {
+            "sha": "9aedeb90d9065dceedb0160738ccd9fa82297619",
+            "date": "2023-08-03T00:53:58Z",
+            "message": "add Week1",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/9aedeb90d9065dceedb0160738ccd9fa82297619"
+          },
+          {
+            "sha": "4950c08aa85d833f731f718e79be433a723a8881",
+            "date": "2023-08-02T22:58:24Z",
+            "message": "Update Solana Co-Learn README.md - core concepts and advanced topics added.",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/4950c08aa85d833f731f718e79be433a723a8881"
+          },
+          {
+            "sha": "2659c2223300d77b3044ad41219594742b53684c",
+            "date": "2023-08-02T10:18:12Z",
+            "message": "Update Solana-Co-Learn README and week files\n\n- Updated week numbers in README.md\n- Renamed week0 to week1, week1 to week2, week2 to week3, and so on\n- Added new week files for weeks 5, 6, 7, 8, and 9\n- Modified sidebar labels and positions\n\n(commit message should be meaningful according to the specific context)",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/2659c2223300d77b3044ad41219594742b53684c"
+          },
+          {
+            "sha": "acdb6c7d9e72659f910828766ff297986abe69c6",
+            "date": "2023-08-02T10:01:49Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/acdb6c7d9e72659f910828766ff297986abe69c6"
+          },
+          {
+            "sha": "c94b80e879652f86442b3d529d3eab893276b9a0",
+            "date": "2023-08-02T09:56:20Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/c94b80e879652f86442b3d529d3eab893276b9a0"
+          },
+          {
+            "sha": "c7a6ac2b1f8462ac3abf9ef736a37615b4981ec4",
+            "date": "2023-08-02T08:40:20Z",
+            "message": "Add Solana Co-Learn hello world examples",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/c7a6ac2b1f8462ac3abf9ef736a37615b4981ec4"
+          },
+          {
+            "sha": "07f41b0b889d23801f0462cee5f69289405dd1c7",
+            "date": "2023-08-02T08:34:00Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/07f41b0b889d23801f0462cee5f69289405dd1c7"
+          },
+          {
+            "sha": "f5888bd973461588426cf2b62911558087338e5d",
+            "date": "2023-08-02T08:07:35Z",
+            "message": "Refactor Solana program development documentation",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/f5888bd973461588426cf2b62911558087338e5d"
+          },
+          {
+            "sha": "0b5f8b035f8c61fddf7b8bf5609136768a8d5288",
+            "date": "2023-08-02T06:56:12Z",
+            "message": "Refactor code for Solana Explorer URL and transaction signature",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/0b5f8b035f8c61fddf7b8bf5609136768a8d5288"
+          },
+          {
+            "sha": "cd2d577610a7bce94e0129173a6c07e6242bbdec",
+            "date": "2023-08-02T06:45:47Z",
+            "message": "add hello_work anchor rpc client",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/cd2d577610a7bce94e0129173a6c07e6242bbdec"
+          },
+          {
+            "sha": "2aabefbcfec26354ed67d1524ce87ef576c5b277",
+            "date": "2023-08-02T04:16:15Z",
+            "message": "Create system account with seed and log transaction hash",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/2aabefbcfec26354ed67d1524ce87ef576c5b277"
+          },
+          {
+            "sha": "38976e87779dba2e08bd285e3390b6774250bd6b",
+            "date": "2023-08-02T03:09:54Z",
+            "message": "feat(account): Add create account with seed functionality",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/38976e87779dba2e08bd285e3390b6774250bd6b"
+          },
+          {
+            "sha": "89820466060fc56be04794d026ebfa01f1a023b3",
+            "date": "2023-08-02T03:05:59Z",
+            "message": "Refactored code for creating a system account and added comments.",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/89820466060fc56be04794d026ebfa01f1a023b3"
+          },
+          {
+            "sha": "51c958ce07e446da75cc875b3280bec1e89f1672",
+            "date": "2023-08-02T02:43:16Z",
+            "message": "Add calc-account-ret-fee to Cargo.toml and Cargo.lock",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/51c958ce07e446da75cc875b3280bec1e89f1672"
+          },
+          {
+            "sha": "4302a85292cbcd1fbbc50a72745e4928e4295c15",
+            "date": "2023-08-02T02:43:05Z",
+            "message": "Add calc-account-ret-fee package with Solana dependencies",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/4302a85292cbcd1fbbc50a72745e4928e4295c15"
+          },
+          {
+            "sha": "36a4d14781804c20b9f4d52c5ec616c70ef027b6",
+            "date": "2023-08-02T02:38:09Z",
+            "message": "[bug]: Add create-system-account by rust but have problem",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/36a4d14781804c20b9f4d52c5ec616c70ef027b6"
+          },
+          {
+            "sha": "d8cefb0cc3de4d30c69f275e0aeebb8c2cacf8ce",
+            "date": "2023-08-02T01:54:27Z",
+            "message": "Add Solana account creation functionality and dependencies",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/d8cefb0cc3de4d30c69f275e0aeebb8c2cacf8ce"
+          },
+          {
+            "sha": "6477af136a7da708ac569b138f10d49ac53cf965",
+            "date": "2023-08-02T01:33:22Z",
+            "message": "Add program and account",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/6477af136a7da708ac569b138f10d49ac53cf965"
+          },
+          {
+            "sha": "d8b4018ff195cded1da0e2c2cb1353df86d1b8e5",
+            "date": "2023-08-01T13:38:55Z",
+            "message": "Add guide for requesting RPC endpoints on quicknode and helius",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/d8b4018ff195cded1da0e2c2cb1353df86d1b8e5"
+          },
+          {
+            "sha": "2938fab24e897010bf9e3c78fa08ba2e19aaa766",
+            "date": "2023-08-01T13:37:23Z",
+            "message": "Add Solana Co Learn tutorials and Solana Cook book Zh link",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/2938fab24e897010bf9e3c78fa08ba2e19aaa766"
+          },
+          {
+            "sha": "7f742df89c76e6647857a4ad9af5b651394837ce",
+            "date": "2023-08-01T11:06:56Z",
+            "message": "rename to all-in-one-solana",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/7f742df89c76e6647857a4ad9af5b651394837ce"
+          },
+          {
+            "sha": "a43314e78c613d0447e980b4e26b3315e8642359",
+            "date": "2023-07-11T13:51:09Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/a43314e78c613d0447e980b4e26b3315e8642359"
+          },
+          {
+            "sha": "bf4d622ca25567c59af82be4608c9e1512698f45",
+            "date": "2023-07-11T13:49:12Z",
+            "message": "add zk tutorials",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/bf4d622ca25567c59af82be4608c9e1512698f45"
+          },
+          {
+            "sha": "76d1fde34888ae0ab9085cf3a8ae57acbf24c59b",
+            "date": "2023-07-07T08:17:34Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/76d1fde34888ae0ab9085cf3a8ae57acbf24c59b"
+          },
+          {
+            "sha": "8a0acf238e34c2e7999ab04667f4469684ac48a4",
+            "date": "2023-07-07T07:21:36Z",
+            "message": "Update docusaurus.config.js",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/8a0acf238e34c2e7999ab04667f4469684ac48a4"
+          },
+          {
+            "sha": "33610c2f35b5f1010833f9567f8e310242047f51",
+            "date": "2023-07-07T06:44:06Z",
+            "message": "Update docusaurus.config.js",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/33610c2f35b5f1010833f9567f8e310242047f51"
+          },
+          {
+            "sha": "52690915ef13cf892f500da4b2f0d8975961e53e",
+            "date": "2023-07-07T06:41:46Z",
+            "message": "Update intro.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/52690915ef13cf892f500da4b2f0d8975961e53e"
+          },
+          {
+            "sha": "d6b542f80363fb1369cc32c8a78a68cce00dbc78",
+            "date": "2023-07-05T17:19:15Z",
+            "message": "Update docusaurus.config.js",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/d6b542f80363fb1369cc32c8a78a68cce00dbc78"
+          },
+          {
+            "sha": "bbaa0f0845a6b3c9da15b92dabb0cd12c2384086",
+            "date": "2023-07-05T16:46:03Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/bbaa0f0845a6b3c9da15b92dabb0cd12c2384086"
+          },
+          {
+            "sha": "5821bcabed46c7be32bc29b457f708651ebf6e6b",
+            "date": "2023-07-05T16:20:36Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/5821bcabed46c7be32bc29b457f708651ebf6e6b"
+          },
+          {
+            "sha": "8b18e1e0a02e1f34403438e28d0306be99deef44",
+            "date": "2023-07-05T16:07:26Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/8b18e1e0a02e1f34403438e28d0306be99deef44"
+          },
+          {
+            "sha": "1a18fd445f9b8c6743c46c2673f6fb1e728ec592",
+            "date": "2023-07-05T16:06:37Z",
+            "message": "Merge branch 'main' of https://github.com/DaviRain-Su/all-in-one-blockchain",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/1a18fd445f9b8c6743c46c2673f6fb1e728ec592"
+          },
+          {
+            "sha": "ef38841fa15c7984d8eb95a932cd87c6af8967c1",
+            "date": "2023-07-05T16:04:47Z",
+            "message": "Update and rename node.js.yml to check.yml",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/ef38841fa15c7984d8eb95a932cd87c6af8967c1"
+          },
+          {
+            "sha": "dfce6c2f11c3daf19741017acb779325a2214f40",
+            "date": "2023-07-05T16:00:06Z",
+            "message": "Create node.js.yml",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/dfce6c2f11c3daf19741017acb779325a2214f40"
+          },
+          {
+            "sha": "7343679dbb568eff97fb0f689cb7081daa3c06e0",
+            "date": "2023-07-05T12:12:58Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/7343679dbb568eff97fb0f689cb7081daa3c06e0"
+          },
+          {
+            "sha": "270465364fcbd45b2e7a29cd697e682b82c9bb83",
+            "date": "2023-07-05T12:03:29Z",
+            "message": "add sidebar position",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/270465364fcbd45b2e7a29cd697e682b82c9bb83"
+          },
+          {
+            "sha": "ec9b9513e8a46d0e7236235d2774567e789ce5c1",
+            "date": "2023-07-04T10:26:59Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/ec9b9513e8a46d0e7236235d2774567e789ce5c1"
+          },
+          {
+            "sha": "76112c2b0e8945b55c36f8a47b6e9ddc02f33284",
+            "date": "2023-07-04T09:29:12Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/76112c2b0e8945b55c36f8a47b6e9ddc02f33284"
+          },
+          {
+            "sha": "b7cd9d12bf2b4f87e484d72fabe1b71f68f4ab16",
+            "date": "2023-07-04T09:12:13Z",
+            "message": "Update guide.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/b7cd9d12bf2b4f87e484d72fabe1b71f68f4ab16"
+          },
+          {
+            "sha": "1f0c7c625f6762a6dd37559432391b3fcd47cd3c",
+            "date": "2023-07-04T09:08:34Z",
+            "message": "add build an nft minter app",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/1f0c7c625f6762a6dd37559432391b3fcd47cd3c"
+          },
+          {
+            "sha": "0a8ed3c47369ee2700c31e428b4f0b8bbcd6c893",
+            "date": "2023-07-04T09:03:49Z",
+            "message": "add run it back",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/0a8ed3c47369ee2700c31e428b4f0b8bbcd6c893"
+          },
+          {
+            "sha": "701a7aa7b56b1d14692d68281adf459a880625cf",
+            "date": "2023-07-04T08:58:11Z",
+            "message": "add build a movie review app",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/701a7aa7b56b1d14692d68281adf459a880625cf"
+          },
+          {
+            "sha": "60fbb304ea332c00771c263f4220d7aff1c05fb5",
+            "date": "2023-07-04T08:02:36Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/60fbb304ea332c00771c263f4220d7aff1c05fb5"
+          },
+          {
+            "sha": "e4571286ffb15d7434db5d99385776fc6f54a366",
+            "date": "2023-07-04T08:01:23Z",
+            "message": "Add Custom instructions",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/e4571286ffb15d7434db5d99385776fc6f54a366"
+          },
+          {
+            "sha": "e19ea0b5cd74ccbcbac324b18e5cb8d12a370dc1",
+            "date": "2023-07-04T07:56:22Z",
+            "message": "Update guide.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/e19ea0b5cd74ccbcbac324b18e5cb8d12a370dc1"
+          },
+          {
+            "sha": "a544dac2bdade6cf739e0bad94c3223e7702544c",
+            "date": "2023-07-04T07:51:57Z",
+            "message": "add interact with program",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/a544dac2bdade6cf739e0bad94c3223e7702544c"
+          },
+          {
+            "sha": "c530d461f7c81b331629f43e17ab9994fbbb14fd",
+            "date": "2023-07-04T07:45:21Z",
+            "message": "Add connecting to wallet",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/c530d461f7c81b331629f43e17ab9994fbbb14fd"
+          },
+          {
+            "sha": "fc07d466ff5ff5b6738bfc0bcfc5bd907a90a81c",
+            "date": "2023-07-04T07:40:06Z",
+            "message": "Add build an interaciton script",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/fc07d466ff5ff5b6738bfc0bcfc5bd907a90a81c"
+          },
+          {
+            "sha": "1a11071f29e73e156c59a2552ef6a0773ea7550a",
+            "date": "2023-07-04T07:34:33Z",
+            "message": "Add write data to the solana blockchain",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/1a11071f29e73e156c59a2552ef6a0773ea7550a"
+          },
+          {
+            "sha": "22dffe3fe477d04b3ec4bba00c38e2353d07ef5d",
+            "date": "2023-07-04T07:14:47Z",
+            "message": "Add read data from the Solana network",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/22dffe3fe477d04b3ec4bba00c38e2353d07ef5d"
+          },
+          {
+            "sha": "7dbc6a3ac3f79c965896d468cb46988b7003c9ad",
+            "date": "2023-07-04T07:01:00Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/7dbc6a3ac3f79c965896d468cb46988b7003c9ad"
+          },
+          {
+            "sha": "6bc6449c75c326245563e8253367b8dd82a1031b",
+            "date": "2023-07-04T06:33:55Z",
+            "message": "update dep",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/6bc6449c75c326245563e8253367b8dd82a1031b"
+          },
+          {
+            "sha": "b7fa05f91ae5231c8bea09bac273a4dea457f07f",
+            "date": "2023-07-04T05:41:21Z",
+            "message": "Update docusaurus.config.js",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/b7fa05f91ae5231c8bea09bac273a4dea457f07f"
+          },
+          {
+            "sha": "bd3f453b833d9c92d0e7b36c1124c09f0bb95568",
+            "date": "2023-07-04T05:35:54Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/bd3f453b833d9c92d0e7b36c1124c09f0bb95568"
+          },
+          {
+            "sha": "ad268eeed9facc6cfc86a7887dea2f9c2ef3c359",
+            "date": "2023-07-04T05:21:39Z",
+            "message": "Update docusaurus.config.js",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/ad268eeed9facc6cfc86a7887dea2f9c2ef3c359"
+          },
+          {
+            "sha": "0be8a25c89dbb20994271a0217dca63a36cb97e2",
+            "date": "2022-07-26T05:26:28Z",
+            "message": "update",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/0be8a25c89dbb20994271a0217dca63a36cb97e2"
+          },
+          {
+            "sha": "0b63ab8b6d0b8a460297f6c291bf26121f4d2eff",
+            "date": "2022-07-26T05:06:24Z",
+            "message": "mirror fix",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/0b63ab8b6d0b8a460297f6c291bf26121f4d2eff"
+          },
+          {
+            "sha": "9ed99cf3a36d47715fca9b40d07fa2a4078d97f8",
+            "date": "2022-07-26T03:50:47Z",
+            "message": "init",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/9ed99cf3a36d47715fca9b40d07fa2a4078d97f8"
+          }
+        ],
+        "pull_requests": [],
+        "total_commits": 373,
+        "total_prs": 0
+      },
+      "issues": {
+        "opened": [
+          {
+            "number": 46,
+            "title": "Add Search Pagefind ",
+            "state": "open",
+            "created_at": "2023-09-29T08:49:52Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/issues/46",
+            "labels": [],
+            "comments": 1
+          },
+          {
+            "number": 29,
+            "title": "\u9700\u8981\u6dfb\u52a0\u7684\u529f\u80fd",
+            "state": "closed",
+            "created_at": "2023-08-29T09:07:48Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/issues/29",
+            "labels": [],
+            "comments": 2
+          },
+          {
+            "number": 9,
+            "title": "npm run build error",
+            "state": "closed",
+            "created_at": "2023-08-20T08:32:57Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/issues/9",
+            "labels": [
+              "bug"
+            ],
+            "comments": 0
+          }
+        ],
+        "total_opened": 3
+      },
+      "engagement": {
+        "comments": [
+          {
+            "id": 1696568307,
+            "body": "\u5efa\u8bae\u628a\u8fd9\u4e2a\u653e\u5728blog\u5730\u65b9 ",
+            "created_at": "2023-08-28T23:43:22Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/28#issuecomment-1696568307",
+            "type": "pr",
+            "issue_number": "28"
+          },
+          {
+            "id": 1696647516,
+            "body": "\u683c\u5f0f\u9700\u8981\u66f4\u6539\u4e0b\uff0c\u53c2\u8003\u4e0bblog\u91cc\u9762\u6587\u7ae0\u7684\u683c\u5f0f\u66f4\u65b0\u4e0b\u9700\u8981\u3002",
+            "created_at": "2023-08-29T01:43:13Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/28#issuecomment-1696647516",
+            "type": "pr",
+            "issue_number": "28"
+          },
+          {
+            "id": 1697212739,
+            "body": "\u770b\u5230\u4e86\u4e00\u4e9b\u8d44\u6599\u6211\u8d34\u5728\u8fd9\u91cc\uff1a https://solana.stackexchange.com/questions/1557/then-what-is-the-purpose-of-createwithseed-instruction?rq=1 \r\n\r\nhttps://solanacookbook.com/references/accounts.html#how-to-create-accounts-with-seeds\r\n",
+            "created_at": "2023-08-29T10:53:57Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/28#issuecomment-1697212739",
+            "type": "pr",
+            "issue_number": "28"
+          },
+          {
+            "id": 1697219018,
+            "body": "\r\n### \u79cd\u5b50\u8d26\u6237\u4e0e\u7a0b\u5e8f\u6d3e\u751f\u5730\u5740\uff08PDAs\uff09\u7684\u76f8\u4f3c\u6027\r\n\r\n\u7a0b\u5e8f\u6d3e\u751f\u5730\u5740\uff08Program Derived Addresses, PDAs\uff09\u901a\u5e38\u7528\u4e8e\u4e0e\u7279\u5b9a\u7a0b\u5e8f\uff08\u901a\u5e38\u662f\u4e00\u4e2a\u667a\u80fd\u5408\u7ea6\uff09\u5173\u8054\u989d\u5916\u7684\u8d26\u6237\u3002\u7c7b\u4f3c\u5730\uff0c\u79cd\u5b50\u8d26\u6237\uff08Seeded Accounts\uff09\u5219\u7528\u4e8e\u4e0e\u5e38\u89c4\u7528\u6237\uff08\u5373\u62e5\u6709\u57fa\u7840\u7b7e\u540d\u5bc6\u94a5\u7684\u7528\u6237\uff09\u5173\u8054\u989d\u5916\u7684\u8d26\u6237\u3002\r\n\r\n### \u7cfb\u7edf\u7a0b\u5e8f\u548c\u79cd\u5b50\u8d26\u6237\r\n\r\n\u5728Solana\u4e2d\uff0c\u7cfb\u7edf\u7a0b\u5e8f\u5141\u8bb8\u60a8\u64cd\u4f5c\u7531\u60a8\u7684\u7b7e\u540d\u5bc6\u94a5\u6d3e\u751f\u51fa\u6765\u7684\u8d26\u6237\uff0c\u800c\u8fd9\u53ea\u9700\u8981\u57fa\u7840\u8d26\u6237\u7684\u7b7e\u540d\u3002\u8fd9\u6837\u7684\u6d3e\u751f\u901a\u5e38\u662f\u901a\u8fc7 `createWithSeed` \u51fd\u6570\u5b8c\u6210\u7684\u3002\r\n\r\n```javascript\r\nlet derived = await PublicKey.createWithSeed(basePubkey, seed, programId);\r\n```\r\n\r\n### \u57fa\u7840\u5bc6\u94a5\u7684\u7279\u6743\r\n\r\n\u4f7f\u7528 `basePubKey` \u521b\u5efa\u6d3e\u751f\u5730\u5740\u540e\uff0c\u57fa\u7840\u516c\u94a5\u7684\u79c1\u94a5\u53ef\u4ee5\u4e3a\u4e0e\u8be5\u6d3e\u751f\u8d26\u6237\u76f8\u5173\u7684\u4efb\u4f55\u4ea4\u6613\u8fdb\u884c\u7b7e\u540d\u3002\u8fd9\u610f\u5473\u7740\uff0c\u5c3d\u7ba1\u6d3e\u751f\u8d26\u6237\u6709\u5176\u81ea\u5df1\u7684\u516c\u94a5\uff0c\u4f46\u5b83\u4ecd\u7136\u53ef\u4ee5\u7531\u57fa\u7840\u8d26\u6237\u5b8c\u5168\u63a7\u5236\u3002\r\n\r\n\u8fd9\u79cd\u8bbe\u7f6e\u63d0\u4f9b\u4e86\u4e00\u79cd\u7075\u6d3b\u7684\u65b9\u5f0f\uff0c\u4f7f\u7528\u6237\u80fd\u591f\u901a\u8fc7\u4e00\u4e2a\u57fa\u7840\u5bc6\u94a5\u7ba1\u7406\u591a\u4e2a\u4e0e\u4e4b\u5173\u8054\u7684\u8d26\u6237\uff0c\u65e0\u9700\u4e3a\u6bcf\u4e2a\u6d3e\u751f\u8d26\u6237\u90fd\u4fdd\u7559\u72ec\u7acb\u7684\u5bc6\u94a5\u3002\r\n\r\n\u901a\u8fc7\u8fd9\u79cd\u65b9\u5f0f\uff0c\u79cd\u5b50\u8d26\u6237\u548c\u7a0b\u5e8f\u6d3e\u751f\u5730\u5740\u90fd\u63d0\u4f9b\u4e86\u4e00\u79cd\u901a\u8fc7\u5bc6\u94a5\u6d3e\u751f\u6765\u7ba1\u7406\u591a\u4e2a\u8d26\u6237\u7684\u9ad8\u6548\u673a\u5236\uff0c\u4f46\u79cd\u5b50\u8d26\u6237\u4e3b\u8981\u7528\u4e8e\u5e38\u89c4\u7528\u6237\uff0c\u800c\u7a0b\u5e8f\u6d3e\u751f\u5730\u5740\u5219\u4e3b\u8981\u7528\u4e8e\u667a\u80fd\u5408\u7ea6\u548c\u7a0b\u5e8f\u3002",
+            "created_at": "2023-08-29T10:57:24Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/28#issuecomment-1697219018",
+            "type": "pr",
+            "issue_number": "28"
+          },
+          {
+            "id": 1697314533,
+            "body": "https://github.com/CreatorsDAO/derive-address-compare \u5199\u7684\u4e00\u4e2aada\u4f8b\u5b50",
+            "created_at": "2023-08-29T12:06:45Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/28#issuecomment-1697314533",
+            "type": "pr",
+            "issue_number": "28"
+          },
+          {
+            "id": 1697378287,
+            "body": "\u8fd9\u91cc\u7684ada \u4e0d\u77e5\u9053\u610f\u601d\u662f\u4e0d\u662f\u6b63\u786e\uff0c\u4e0b\u9762\u8fd9\u4e2a\u662f\u6211\u95eechatgpt \u7ed9\u51fa\u7684\u3002\r\n--- \r\n\u5728Solana \u4e2d\uff0c\u4e24\u79cd\u4e3b\u8981\u7c7b\u578b\u7684\u8d26\u6237\u662f ADA\uff08Associated Token Account\uff09\u548c PDA\uff08Program Derived Account\uff09\u3002\u5b83\u4eec\u7684\u4e3b\u8981\u533a\u522b\u548c\u521b\u5efa\u65b9\u5f0f\u5982\u4e0b\uff1a\r\n\r\n### ADA\uff08Associated Token Account\uff09\r\n\r\n1. **\u4e3b\u8981\u7528\u9014**\uff1aADA \u4e3b\u8981\u7528\u4e8e\u5b58\u50a8\u4e0e\u67d0\u4e2a\u4e3b\u8d26\u6237\u5173\u8054\u7684\u4ee3\u5e01\u3002\u901a\u5e38\uff0c\u5f53\u4f60\u60f3\u5728\u4f60\u7684Solana\u4e3b\u8d26\u6237\u91cc\u5b58\u50a8SPL\u4ee3\u5e01\uff08Solana Program Library token\uff09\u65f6\uff0c\u4f60\u9700\u8981\u4e00\u4e2aADA\u3002\r\n2. **\u6743\u9650**\uff1a\u4e0e\u4e3b\u8d26\u6237\u7d27\u5bc6\u5173\u8054\uff0c\u901a\u5e38\u7531\u4e3b\u8d26\u6237\u63a7\u5236\u3002\r\n3. **\u521b\u5efa\u65b9\u5f0f**\uff1a\u901a\u8fc7\u4e3b\u8d26\u6237\u53d1\u8d77\u4e00\u4e2a\u4ea4\u6613\u6765\u521b\u5efa\u3002\u901a\u5e38\uff0c\u94b1\u5305\u8f6f\u4ef6\u4f1a\u81ea\u52a8\u4e3a\u4f60\u505a\u8fd9\u4ef6\u4e8b\u3002\r\n\r\n### PDA\uff08Program Derived Account\uff09\r\n\r\n1. **\u4e3b\u8981\u7528\u9014**\uff1aPDA\u901a\u5e38\u7528\u4e8e\u667a\u80fd\u5408\u7ea6\u548c\u590d\u6742\u7684\u53bb\u4e2d\u5fc3\u5316\u5e94\u7528\uff08dApps\uff09\u3002\u5b83\u4eec\u7531\u667a\u80fd\u5408\u7ea6\uff08\u6216\u79f0\u4e3a\u7a0b\u5e8f\uff09\u63a7\u5236\u3002\r\n2. **\u6743\u9650**\uff1aPDA\u7531\u4e00\u4e2a\u6216\u591a\u4e2a\u7279\u5b9a\u7684\u667a\u80fd\u5408\u7ea6\u63a7\u5236\uff0c\u4e0d\u50cf ADA \u90a3\u6837\u76f4\u63a5\u7531\u7528\u6237\u63a7\u5236\u3002\r\n3. **\u521b\u5efa\u65b9\u5f0f**\uff1a\u901a\u5e38\u5728\u667a\u80fd\u5408\u7ea6\u7684\u90e8\u7f72\u6216\u6267\u884c\u8fc7\u7a0b\u4e2d\u52a8\u6001\u751f\u6210\u3002\u751f\u6210\u7684\u65b9\u6cd5\u53d6\u51b3\u4e8e\u667a\u80fd\u5408\u7ea6\u7684\u5177\u4f53\u903b\u8f91\u3002\r\n\r\n\u521b\u5efa\u8fd9\u4e24\u79cd\u4e0d\u540c\u7c7b\u578b\u7684\u8d26\u6237\u5728 Solana \u4e0a\u6d89\u53ca\u5230\u4e0d\u540c\u7684\u64cd\u4f5c\u548c\u4ee3\u7801\u5b9e\u73b0\u3002\r\n\r\n### ADA\uff08Associated Token Account\uff09\u7684\u521b\u5efa\u65b9\u5f0f\uff1a\r\n\r\n1. **\u624b\u52a8\u521b\u5efa**\uff1a\u53ef\u4ee5\u4f7f\u7528 `spl-token` \u547d\u4ee4\u884c\u5de5\u5177\u624b\u52a8\u521b\u5efa\u3002\r\n    ```bash\r\n    spl-token create-account <TOKEN_MINT_ADDRESS>\r\n    ```\r\n2. **\u4f7f\u7528\u94b1\u5305\u8f6f\u4ef6**\uff1a\u591a\u6570 Solana \u94b1\u5305\uff08\u5982 Phantom, Sollet \u7b49\uff09\u4f1a\u81ea\u52a8\u4e3a\u4f60\u521b\u5efa ADA\u3002\r\n3. **\u7f16\u7a0b\u65b9\u5f0f**\uff1a\u4f7f\u7528 Solana \u7684 Rust \u6216 JavaScript SDK\uff0c\u4f60\u53ef\u4ee5\u7f16\u5199\u4ee3\u7801\u6765\u521b\u5efa\u4e00\u4e2a ADA\u3002\r\n\r\n### PDA\uff08Program Derived Account\uff09\u7684\u521b\u5efa\u65b9\u5f0f\uff1a\r\n\r\n1. **\u5728\u667a\u80fd\u5408\u7ea6\u4e2d\u5b9a\u4e49**\uff1a\u901a\u5e38\uff0c\u4f60\u4f1a\u5728 Solana \u7684 Rust \u6216 C \u7a0b\u5e8f\u4e2d\u6307\u5b9a\u4e00\u4e2a PDA\u3002\u5b83\u901a\u5e38\u7531\u4e00\u4e2a\u79cd\u5b50\uff08\u53ef\u4ee5\u662f\u5b57\u7b26\u4e32\u3001\u6570\u5b57\u7b49\uff09\u548c\u7a0b\u5e8fID\u7ec4\u5408\u800c\u6210\u3002\r\n  \r\n    ```rust\r\n    let (pda_account, nonce) = Pubkey::find_program_address(&[b\"seed\"], &program_id);\r\n    ```\r\n  \r\n2. **\u521d\u59cb\u5316 PDA**\uff1a\u5728\u667a\u80fd\u5408\u7ea6\u7684\u67d0\u4e2a\u6307\u4ee4\u4e2d\uff0c\u4f60\u53ef\u80fd\u9700\u8981\u521d\u59cb\u5316\u8fd9\u4e2a PDA \u8d26\u6237\u3002\u8fd9\u901a\u5e38\u6d89\u53ca\u5230\u6307\u5b9a PDA \u7684\u6240\u6709\u8005\u548c\u5176\u4ed6\u72b6\u6001\u53d8\u91cf\u3002\r\n\r\n3. **\u7528\u6237\u4ea4\u4e92\u521b\u5efa**\uff1a\u5728\u67d0\u4e9b\u60c5\u51b5\u4e0b\uff0c\u7528\u6237\u53ef\u80fd\u4f1a\u901a\u8fc7\u4ea4\u4e92\uff08\u5982\u70b9\u51fb\u4e00\u4e2a\u6309\u94ae\uff09\u89e6\u53d1\u4e00\u4e2a\u4ea4\u6613\uff0c\u8be5\u4ea4\u6613\u7ed3\u679c\u4f1a\u521b\u5efa\u4e00\u4e2a\u65b0\u7684 PDA\u3002\r\n\r\n\u8fd9\u4e24\u79cd\u8d26\u6237\u7684\u521b\u5efa\u65b9\u5f0f\u7b26\u5408\u5b83\u4eec\u5404\u81ea\u7684\u7528\u9014\u548c\u63a7\u5236\u6a21\u578b\u3002ADA \u66f4\u591a\u5730\u7528\u4e8e\u901a\u7528\u4ee3\u5e01\u4ea4\u6613\uff0c\u800c PDA \u66f4\u9002\u7528\u4e8e\u590d\u6742\u7684\u7a0b\u5e8f\u903b\u8f91\u548c\u53bb\u4e2d\u5fc3\u5316\u5e94\u7528\u3002\u5e0c\u671b\u8fd9\u80fd\u5e2e\u52a9\u4f60\u66f4\u597d\u5730\u7406\u89e3 Solana \u4e0a\u8fd9\u4e24\u79cd\u4e0d\u540c\u7c7b\u578b\u8d26\u6237\u7684\u521b\u5efa\u65b9\u5f0f\u3002\u5982\u679c\u6709\u5176\u4ed6\u95ee\u9898\u6216\u9700\u8981\u66f4\u591a\u7ec6\u8282\uff0c\u8bf7\u968f\u65f6\u63d0\u95ee\u3002",
+            "created_at": "2023-08-29T12:47:28Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/28#issuecomment-1697378287",
+            "type": "pr",
+            "issue_number": "28"
+          },
+          {
+            "id": 1697467599,
+            "body": "LFG!",
+            "created_at": "2023-08-29T13:39:30Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/30#issuecomment-1697467599",
+            "type": "pr",
+            "issue_number": "30"
+          },
+          {
+            "id": 1721100165,
+            "body": "> #39\r\n> \r\n> \u641c\u7d22\u529f\u80fd\u5df2\u53ef\u7528\r\n\r\nLFG!!! \ud83c\udf89",
+            "created_at": "2023-09-15T11:13:50Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/issues/29#issuecomment-1721100165",
+            "type": "issue",
+            "issue_number": "29"
+          },
+          {
+            "id": 1740178535,
+            "body": "awesome\ud83e\udee1",
+            "created_at": "2023-09-29T01:08:15Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/44#issuecomment-1740178535",
+            "type": "pr",
+            "issue_number": "44"
+          }
+        ],
+        "total_comments": 9
+      }
+    },
+    "score": 7,
+    "score_breakdown": {
+      "merged_prs": 0,
+      "issues": 3,
+      "pr_commits": 0,
+      "pr_reviews": 0,
+      "comments": 4.5,
+      "total": 7.5
+    }
+  },
+  {
+    "contributor": "jamesishandsome",
+    "avatar_url": "https://avatars.githubusercontent.com/u/49660809?v=4",
+    "activity": {
+      "code": {
+        "commits": [
+          {
+            "sha": "30f44c0e6033365f900c0a0b58afaf2e4c33a76c",
+            "date": "2023-08-29T13:04:36Z",
+            "message": "fix: fix edit this page link",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/30f44c0e6033365f900c0a0b58afaf2e4c33a76c"
+          },
+          {
+            "sha": "4b7e37c036f0cfc55c3ae3ec27566eaab1f03e8f",
+            "date": "2023-08-29T12:47:43Z",
+            "message": "style: change --ifm-link-color to dark solana green",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/4b7e37c036f0cfc55c3ae3ec27566eaab1f03e8f"
+          }
+        ],
+        "pull_requests": [
+          {
+            "number": 30,
+            "title": "Feature/style change",
+            "state": "closed",
+            "created_at": "2023-08-29T13:06:00Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/30",
+            "labels": [],
+            "comments": 2
+          }
+        ],
+        "total_commits": 2,
+        "total_prs": 1
+      },
+      "issues": {
+        "opened": [],
+        "total_opened": 0
+      },
+      "engagement": {
+        "comments": [
+          {
+            "id": 1697422204,
+            "body": "\u6539\u4e86\u4e00\u4e0bhyperlink\u7684\u989c\u8272 \u4e0d\u786e\u5b9a\u9002\u4e0d\u9002\u5408\r\n\u53e6\u5916fix\u4e86edit this page\u7684link \u867d\u7136\u611f\u89c9\u6ca1\u5565\u7528\r\n\u53ef\u4ee5\u5230https://james.ga/all-in-one-solana\u770b\u4e00\u4e0b\u6548\u679c",
+            "created_at": "2023-08-29T13:13:18Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/30#issuecomment-1697422204",
+            "type": "pr",
+            "issue_number": "30"
+          }
+        ],
+        "total_comments": 1
+      }
+    },
+    "score": 7,
+    "score_breakdown": {
+      "merged_prs": 7,
+      "issues": 0,
+      "pr_commits": 0,
+      "pr_reviews": 0,
+      "comments": 0.5,
+      "total": 7.5
+    }
+  },
+  {
+    "contributor": "Whitehare2023",
+    "avatar_url": "https://avatars.githubusercontent.com/u/124434634?v=4",
+    "activity": {
+      "code": {
+        "commits": [
+          {
+            "sha": "8dc134522679bc5c5481939530918747d01e2133",
+            "date": "2024-03-03T13:33:00Z",
+            "message": "\u6dfb\u52a0\u4e2d\u6587\u7248\u8bb2\u4e49",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/8dc134522679bc5c5481939530918747d01e2133"
+          }
+        ],
+        "pull_requests": [
+          {
+            "number": 54,
+            "title": "\u6dfb\u52a0\u4e2d\u6587\u7248\u8bb2\u4e49",
+            "state": "closed",
+            "created_at": "2024-03-03T13:35:02Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/pull/54",
+            "labels": [],
+            "comments": 0
+          }
+        ],
+        "total_commits": 1,
+        "total_prs": 1
+      },
+      "issues": {
+        "opened": [],
+        "total_opened": 0
+      },
+      "engagement": {
+        "comments": [],
+        "total_comments": 0
+      }
+    },
+    "score": 7,
+    "score_breakdown": {
+      "merged_prs": 7,
+      "issues": 0,
+      "pr_commits": 0,
+      "pr_reviews": 0,
+      "comments": 0.0,
+      "total": 7.0
+    }
+  },
+  {
+    "contributor": "yanboishere",
+    "avatar_url": "https://avatars.githubusercontent.com/u/76860915?v=4",
+    "activity": {
+      "code": {
+        "commits": [
+          {
+            "sha": "ed4ff6279dbac0b4d846edafb553b91540d81273",
+            "date": "2024-05-13T02:35:01Z",
+            "message": "Create SECURITY.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/ed4ff6279dbac0b4d846edafb553b91540d81273"
+          },
+          {
+            "sha": "0d225037586c4c9ed69a67e6372efbee92c99b24",
+            "date": "2024-05-13T01:41:20Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/0d225037586c4c9ed69a67e6372efbee92c99b24"
+          },
+          {
+            "sha": "d92192c327213bce953d21b87bfa1f195385afb2",
+            "date": "2024-05-13T01:39:23Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/commit/d92192c327213bce953d21b87bfa1f195385afb2"
+          }
+        ],
+        "pull_requests": [],
+        "total_commits": 3,
+        "total_prs": 0
+      },
+      "issues": {
+        "opened": [],
+        "total_opened": 0
+      },
+      "engagement": {
+        "comments": [
+          {
+            "id": 2106218843,
+            "body": "Great idea\uff01",
+            "created_at": "2024-05-12T11:46:10Z",
+            "url": "https://github.com/CreatorsDAO/solana-co-learn/issues/46#issuecomment-2106218843",
+            "type": "issue",
+            "issue_number": "46"
+          }
+        ],
+        "total_comments": 1
+      }
+    },
+    "score": 0,
+    "score_breakdown": {
+      "merged_prs": 0,
+      "issues": 0,
+      "pr_commits": 0,
+      "pr_reviews": 0,
+      "comments": 0.5,
+      "total": 0.5
+    }
+  }
+]
