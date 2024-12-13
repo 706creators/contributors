@@ -285,6 +285,6 @@ const indexContent = `
 </body>
 </html>`;
 
-await fs.writeFile(path.join('profiles', 'index.html'), indexContent);
+await fs.writeFile(path.join('index.html'), indexContent);
 
-console.log('Site generation complete! Open ./profiles/index.html to view the result.');
+console.log('Site generation complete! Open ./index.html to view the result.');
