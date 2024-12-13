@@ -2,5 +2,13 @@
     {
         "org": "CreatorsDAO",
         "repo": "walrus-co-learn"
+    },
+    {
+        "org": "CreatorsDAO",
+        "repo": "solana-co-learn"
+    },
+    {
+        "org": "CreatorsDAO",
+        "repo": "Fuel-co-learn"
     }
 ]
