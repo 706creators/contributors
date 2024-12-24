@@ -1,18 +1,26 @@
 [
-    {
-        "org": "CreatorsDAO",
-        "repo": "walrus-co-learn"
-    },
-    {
-        "org": "CreatorsDAO",
-        "repo": "solana-co-learn"
-    },
-    {
-        "org": "CreatorsDAO",
-        "repo": "Fuel-co-learn"
-    },
-    {
-        "org": "CreatorsDAO",
-        "repo": "web3-protocol-co-learn"
-    }
+  {
+    "org": "CreatorsDAO",
+    "repo": "walrus-co-learn"
+  },
+  {
+    "org": "CreatorsDAO",
+    "repo": "solana-co-learn"
+  },
+  {
+    "org": "CreatorsDAO",
+    "repo": "Fuel-co-learn"
+  },
+  {
+    "org": "CreatorsDAO",
+    "repo": "web3-protocol-co-learn"
+  },
+  {
+    "org": "CreatorsDAO",
+    "repo": "sui-ai-gent-learning"
+  },
+  {
+    "org": "CreatorsDAO",
+    "repo": "apple-swift-co-learn"
+  }
 ]
