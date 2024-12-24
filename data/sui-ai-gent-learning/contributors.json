@@ -1,0 +1,45 @@
+[
+  {
+    "contributor": "v1xingyue",
+    "avatar_url": "https://avatars.githubusercontent.com/u/974169?v=4",
+    "activity": {
+      "code": {
+        "commits": [
+          {
+            "sha": "55ee8ed09e88b1d4ccc344c9e6ce555ad7ec8c8e",
+            "date": "2024-12-22T11:09:59Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/sui-ai-gent-learning/commit/55ee8ed09e88b1d4ccc344c9e6ce555ad7ec8c8e"
+          },
+          {
+            "sha": "54394ebb8fcea186b32b322007a0590e06a41def",
+            "date": "2024-12-22T11:07:14Z",
+            "message": "Initial commit",
+            "url": "https://github.com/CreatorsDAO/sui-ai-gent-learning/commit/54394ebb8fcea186b32b322007a0590e06a41def"
+          }
+        ],
+        "pull_requests": [],
+        "total_commits": 2,
+        "total_prs": 0
+      },
+      "issues": {
+        "opened": [],
+        "total_opened": 0
+      },
+      "engagement": {
+        "comments": [],
+        "total_comments": 0
+      }
+    },
+    "summary": "v1xingyue is a developer who recently made two commits, focusing on updating the README.md and creating an initial commit. Their current work seems to involve setting up a new project or repository, with an emphasis on project documentation. It appears that v1xingyue is currently laying the groundwork for a new technical project.",
+    "score": 0,
+    "score_breakdown": {
+      "merged_prs": 0,
+      "issues": 0,
+      "pr_commits": 0,
+      "pr_reviews": 0,
+      "comments": 0.0,
+      "total": 0.0
+    }
+  }
+]
