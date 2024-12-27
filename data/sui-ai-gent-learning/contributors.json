@@ -6,6 +6,24 @@
       "code": {
         "commits": [
           {
+            "sha": "dadc13c96dae91ec5accf099b74fa95f1487e33c",
+            "date": "2024-12-27T09:32:06Z",
+            "message": "Merge pull request #1 from CreatorsDAO/kaichen-patch-1\n\nUpdate course outline",
+            "url": "https://github.com/CreatorsDAO/sui-ai-gent-learning/commit/dadc13c96dae91ec5accf099b74fa95f1487e33c"
+          },
+          {
+            "sha": "1e2dbce3b8e482415e09396806335ff2cc7a2043",
+            "date": "2024-12-27T01:32:50Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/sui-ai-gent-learning/commit/1e2dbce3b8e482415e09396806335ff2cc7a2043"
+          },
+          {
+            "sha": "4ab03d49c956d1e6a7d488f12007557c292601d8",
+            "date": "2024-12-27T01:32:23Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/sui-ai-gent-learning/commit/4ab03d49c956d1e6a7d488f12007557c292601d8"
+          },
+          {
             "sha": "55ee8ed09e88b1d4ccc344c9e6ce555ad7ec8c8e",
             "date": "2024-12-22T11:09:59Z",
             "message": "Update README.md",
@@ -16,6 +34,49 @@
             "date": "2024-12-22T11:07:14Z",
             "message": "Initial commit",
             "url": "https://github.com/CreatorsDAO/sui-ai-gent-learning/commit/54394ebb8fcea186b32b322007a0590e06a41def"
+          }
+        ],
+        "pull_requests": [],
+        "total_commits": 5,
+        "total_prs": 0
+      },
+      "issues": {
+        "opened": [],
+        "total_opened": 0
+      },
+      "engagement": {
+        "comments": [],
+        "total_comments": 0
+      }
+    },
+    "summary": "v1xingyue is a developer currently focused on updating project documentation, as evidenced by recent commits to the README.md file. Their primary technical contributions involve maintaining project information and ensuring clear communication of project details. This developer's recent activity suggests a strong emphasis on documentation and project organization.",
+    "score": 0,
+    "score_breakdown": {
+      "merged_prs": 0,
+      "issues": 0,
+      "pr_commits": 0,
+      "pr_reviews": 0,
+      "comments": 0.0,
+      "total": 0.0
+    }
+  },
+  {
+    "contributor": "kaichen",
+    "avatar_url": "https://avatars.githubusercontent.com/u/4048?v=4",
+    "activity": {
+      "code": {
+        "commits": [
+          {
+            "sha": "5ff5ad86fcb048a13fc0e831c40480f8e4431311",
+            "date": "2024-12-27T09:20:16Z",
+            "message": "\u66f4\u65b0 README.md",
+            "url": "https://github.com/CreatorsDAO/sui-ai-gent-learning/commit/5ff5ad86fcb048a13fc0e831c40480f8e4431311"
+          },
+          {
+            "sha": "b87ac525147d426119f40a9196e2dc79e72864b0",
+            "date": "2024-12-27T07:48:52Z",
+            "message": "Update course outline\n\n\u53e6\u4e00\u79cd\u5927\u7eb2\u6392\u5217\u601d\u8def",
+            "url": "https://github.com/CreatorsDAO/sui-ai-gent-learning/commit/b87ac525147d426119f40a9196e2dc79e72864b0"
           }
         ],
         "pull_requests": [],
@@ -31,7 +92,7 @@
         "total_comments": 0
       }
     },
-    "summary": "v1xingyue is a developer who recently made two commits, focusing on updating the README.md and creating an initial commit. Their current work seems to involve setting up a new project or repository, with an emphasis on project documentation. It appears that v1xingyue is currently laying the groundwork for a new technical project.",
+    "summary": "kaichen is currently focusing on updating documentation and course outlines in their GitHub repository. Their recent commits indicate a dedication to maintaining clear and organized project information. It seems that kaichen's current efforts are centered around improving project documentation and outlining project structures.",
     "score": 0,
     "score_breakdown": {
       "merged_prs": 0,
