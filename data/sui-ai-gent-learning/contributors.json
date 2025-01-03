@@ -6,6 +6,18 @@
       "code": {
         "commits": [
           {
+            "sha": "38264fd494fb1faa13ba55f6fdbefc5c6a92256f",
+            "date": "2024-12-30T05:51:39Z",
+            "message": "add emoji",
+            "url": "https://github.com/CreatorsDAO/sui-ai-gent-learning/commit/38264fd494fb1faa13ba55f6fdbefc5c6a92256f"
+          },
+          {
+            "sha": "1b64b8d6375646ec6b07ec8f42d9271c964220da",
+            "date": "2024-12-30T05:46:25Z",
+            "message": "some description",
+            "url": "https://github.com/CreatorsDAO/sui-ai-gent-learning/commit/1b64b8d6375646ec6b07ec8f42d9271c964220da"
+          },
+          {
             "sha": "dadc13c96dae91ec5accf099b74fa95f1487e33c",
             "date": "2024-12-27T09:32:06Z",
             "message": "Merge pull request #1 from CreatorsDAO/kaichen-patch-1\n\nUpdate course outline",
@@ -37,7 +49,7 @@
           }
         ],
         "pull_requests": [],
-        "total_commits": 5,
+        "total_commits": 7,
         "total_prs": 0
       },
       "issues": {
@@ -49,7 +61,7 @@
         "total_comments": 0
       }
     },
-    "summary": "v1xingyue is a developer currently focused on updating project documentation, as evidenced by recent commits to the README.md file. Their primary technical contributions involve maintaining project information and ensuring clear communication of project details. This developer's recent activity suggests a strong emphasis on documentation and project organization.",
+    "summary": "v1xingyue is currently focusing on enhancing user experience by incorporating emojis and refining project descriptions in their recent GitHub activity. With a total of 7 commits, v1xingyue's contributions demonstrate an attention to detail in improving project documentation and communication. Their work appears to prioritize small feature enhancements and project clarity.",
     "score": 0,
     "score_breakdown": {
       "merged_prs": 0,
@@ -92,7 +104,44 @@
         "total_comments": 0
       }
     },
-    "summary": "kaichen is currently focusing on updating documentation and course outlines in their GitHub repository. Their recent commits indicate a dedication to maintaining clear and organized project information. It seems that kaichen's current efforts are centered around improving project documentation and outlining project structures.",
+    "summary": "kaichen is currently focusing on updating documentation and course outlines in their GitHub activity. Their recent commits indicate a dedication to improving project clarity and organization. It seems that kaichen's contributions primarily revolve around maintaining project documentation and outlining course structures.",
+    "score": 0,
+    "score_breakdown": {
+      "merged_prs": 0,
+      "issues": 0,
+      "pr_commits": 0,
+      "pr_reviews": 0,
+      "comments": 0.0,
+      "total": 0.0
+    }
+  },
+  {
+    "contributor": "wufen771",
+    "avatar_url": "https://avatars.githubusercontent.com/u/75476866?v=4",
+    "activity": {
+      "code": {
+        "commits": [
+          {
+            "sha": "000939d3d1d7fe0077b1814ff9394c8f18b796b1",
+            "date": "2024-12-31T07:20:38Z",
+            "message": "Update README.md",
+            "url": "https://github.com/CreatorsDAO/sui-ai-gent-learning/commit/000939d3d1d7fe0077b1814ff9394c8f18b796b1"
+          }
+        ],
+        "pull_requests": [],
+        "total_commits": 1,
+        "total_prs": 0
+      },
+      "issues": {
+        "opened": [],
+        "total_opened": 0
+      },
+      "engagement": {
+        "comments": [],
+        "total_comments": 0
+      }
+    },
+    "summary": "wufen771 is currently updating the README.md file in their repository. Their technical focus appears to be on maintaining project documentation. This contribution suggests a commitment to keeping project information up-to-date and accessible to users and collaborators.",
     "score": 0,
     "score_breakdown": {
       "merged_prs": 0,
