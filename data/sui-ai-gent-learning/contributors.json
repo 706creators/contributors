@@ -61,7 +61,7 @@
         "total_comments": 0
       }
     },
-    "summary": "v1xingyue is a developer who recently focused on updating documentation and adding emoji to a project repository. Their commits primarily involve enhancing project descriptions and course outlines. With a current emphasis on documentation improvements, v1xingyue's contributions demonstrate a commitment to maintaining clear and informative project resources.",
+    "summary": "v1xingyue is a developer who recently focused on updating documentation and adding minor features to a project. Their recent activity includes adding emojis, updating the course outline, and making multiple updates to the README.md file. This suggests a current emphasis on documentation improvements and minor feature enhancements within the project repository.",
     "score": 0,
     "score_breakdown": {
       "merged_prs": 0,
@@ -78,6 +78,12 @@
     "activity": {
       "code": {
         "commits": [
+          {
+            "sha": "e5ed968511ca8c3bfdbdb7c381156cd452ec1911",
+            "date": "2025-01-11T10:34:23Z",
+            "message": "add w1 content",
+            "url": "https://github.com/CreatorsDAO/sui-ai-gent-learning/commit/e5ed968511ca8c3bfdbdb7c381156cd452ec1911"
+          },
           {
             "sha": "8df03b25aa5f6a8ab3dd697cdab8d0209e8cd171",
             "date": "2025-01-09T02:07:11Z",
@@ -98,7 +104,7 @@
           }
         ],
         "pull_requests": [],
-        "total_commits": 3,
+        "total_commits": 4,
         "total_prs": 0
       },
       "issues": {
@@ -110,7 +116,44 @@
         "total_comments": 0
       }
     },
-    "summary": "kaichen is currently focused on making contributions to the \"knock knock\" project, with a total of 3 commits. Their recent activity suggests an interest in backend development or feature implementation. Further analysis may reveal patterns in their coding style or areas of expertise within this project.",
+    "summary": "Kaichen is currently focused on adding content to the \"w1\" project, with a total of 4 commits. Their recent activity indicates a concentration on feature development within this specific project. It seems that Kaichen is actively engaged in enhancing the functionality or content of the \"w1\" repository.",
+    "score": 0,
+    "score_breakdown": {
+      "merged_prs": 0,
+      "issues": 0,
+      "pr_commits": 0,
+      "pr_reviews": 0,
+      "comments": 0.0,
+      "total": 0.0
+    }
+  },
+  {
+    "contributor": "yanboishere",
+    "avatar_url": "https://avatars.githubusercontent.com/u/76860915?v=4",
+    "activity": {
+      "code": {
+        "commits": [
+          {
+            "sha": "1ba08ba93b8b6cd9892b32fa27b5ef04240862b4",
+            "date": "2025-01-16T00:21:16Z",
+            "message": "feat sui link",
+            "url": "https://github.com/CreatorsDAO/sui-ai-gent-learning/commit/1ba08ba93b8b6cd9892b32fa27b5ef04240862b4"
+          }
+        ],
+        "pull_requests": [],
+        "total_commits": 1,
+        "total_prs": 0
+      },
+      "issues": {
+        "opened": [],
+        "total_opened": 0
+      },
+      "engagement": {
+        "comments": [],
+        "total_comments": 0
+      }
+    },
+    "summary": "yanboishere is currently focusing on adding a new feature labeled \"feat sui link\" to their repository. This suggests a focus on frontend development or user interface enhancements. With a recent commit and no associated PRs or issues, their contributions appear to be individual and feature-driven.",
     "score": 0,
     "score_breakdown": {
       "merged_prs": 0,
@@ -147,7 +190,7 @@
         "total_comments": 0
       }
     },
-    "summary": "wufen771 is currently updating the README.md file in their repository, indicating a focus on documentation and project organization. While this single commit doesn't reveal extensive technical details, it suggests a meticulous approach to maintaining clear and informative project documentation. Further exploration of their repositories may provide insights into their broader technical contributions and interests.",
+    "summary": "wufen771 is currently updating the README.md file in their repository. Their primary focus appears to be on documentation improvements. This contribution suggests a pattern of attention to detail and a commitment to maintaining clear project documentation.",
     "score": 0,
     "score_breakdown": {
       "merged_prs": 0,
