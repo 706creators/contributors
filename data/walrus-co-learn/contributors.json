@@ -9,124 +9,114 @@
             "sha": "a0ef056783a55908c890366a9a51de2071545ae4",
             "date": "2024-11-27T13:08:46Z",
             "message": "Merge pull request #3 from Wulabalabo/main\n\nupdate doc",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/commit/a0ef056783a55908c890366a9a51de2071545ae4"
+            "url": "https://github.com/706creators/walrus-co-learn/commit/a0ef056783a55908c890366a9a51de2071545ae4"
           },
           {
             "sha": "e7860b1fcceea3ce5fb5ac222eab953d7eae0168",
             "date": "2024-11-27T13:08:05Z",
             "message": "Merge branch 'CreatorsDAO:main' into main",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/commit/e7860b1fcceea3ce5fb5ac222eab953d7eae0168"
+            "url": "https://github.com/706creators/walrus-co-learn/commit/e7860b1fcceea3ce5fb5ac222eab953d7eae0168"
           },
           {
             "sha": "a2e52492cf18d477594d204761dac23c171ecf7d",
             "date": "2024-11-27T13:07:08Z",
             "message": "[doc] update project README.md",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/commit/a2e52492cf18d477594d204761dac23c171ecf7d"
+            "url": "https://github.com/706creators/walrus-co-learn/commit/a2e52492cf18d477594d204761dac23c171ecf7d"
           },
           {
             "sha": "b38bf21abc0f7407e80d16cd9ab73f8054193805",
             "date": "2024-11-27T10:16:32Z",
             "message": "[fix] ignore typescript errors",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/commit/b38bf21abc0f7407e80d16cd9ab73f8054193805"
+            "url": "https://github.com/706creators/walrus-co-learn/commit/b38bf21abc0f7407e80d16cd9ab73f8054193805"
           },
           {
             "sha": "4de6a86e8f4595626e6b50c7cafc70fa5b70103e",
             "date": "2024-11-27T10:02:29Z",
             "message": "[doc] update project Readmd.md",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/commit/4de6a86e8f4595626e6b50c7cafc70fa5b70103e"
+            "url": "https://github.com/706creators/walrus-co-learn/commit/4de6a86e8f4595626e6b50c7cafc70fa5b70103e"
           },
           {
             "sha": "59464076c6e8ce1a660d609a8d3994af04e1c8a8",
             "date": "2024-11-27T10:01:28Z",
             "message": "[doc] project README.md",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/commit/59464076c6e8ce1a660d609a8d3994af04e1c8a8"
+            "url": "https://github.com/706creators/walrus-co-learn/commit/59464076c6e8ce1a660d609a8d3994af04e1c8a8"
           },
           {
             "sha": "223e9d85200092548e34e23f0b58677ea5c26eec",
             "date": "2024-11-27T09:47:22Z",
             "message": "[feat] finish gallerylibrary",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/commit/223e9d85200092548e34e23f0b58677ea5c26eec"
+            "url": "https://github.com/706creators/walrus-co-learn/commit/223e9d85200092548e34e23f0b58677ea5c26eec"
           },
           {
             "sha": "0e1b219a98e1dc470a6efaaf690f289e2ee1daba",
             "date": "2024-11-27T08:05:47Z",
             "message": "[feat] finish gallery site",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/commit/0e1b219a98e1dc470a6efaaf690f289e2ee1daba"
+            "url": "https://github.com/706creators/walrus-co-learn/commit/0e1b219a98e1dc470a6efaaf690f289e2ee1daba"
           },
           {
             "sha": "7b58dfa6aab634f5c751393f0bf2793c03c4ebe9",
             "date": "2024-11-27T06:23:42Z",
             "message": "[feat] upload gallerylibrary to walrus",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/commit/7b58dfa6aab634f5c751393f0bf2793c03c4ebe9"
+            "url": "https://github.com/706creators/walrus-co-learn/commit/7b58dfa6aab634f5c751393f0bf2793c03c4ebe9"
           },
           {
             "sha": "7964f0fc84f1abb9317b733be2f42df572410415",
             "date": "2024-11-27T05:25:52Z",
             "message": "[init] initialize 2 frontend for gallery",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/commit/7964f0fc84f1abb9317b733be2f42df572410415"
+            "url": "https://github.com/706creators/walrus-co-learn/commit/7964f0fc84f1abb9317b733be2f42df572410415"
           },
           {
             "sha": "ce9f450967a04d536790c0cf031ba61b78a1ddc3",
             "date": "2024-11-27T05:16:45Z",
             "message": "[feat] add walruscolearn",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/commit/ce9f450967a04d536790c0cf031ba61b78a1ddc3"
+            "url": "https://github.com/706creators/walrus-co-learn/commit/ce9f450967a04d536790c0cf031ba61b78a1ddc3"
           },
           {
             "sha": "50626ef9950a64dfc4ed9b94a2c79ddccd2b848c",
             "date": "2024-11-26T14:21:24Z",
             "message": "[feat] add gallery contract",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/commit/50626ef9950a64dfc4ed9b94a2c79ddccd2b848c"
+            "url": "https://github.com/706creators/walrus-co-learn/commit/50626ef9950a64dfc4ed9b94a2c79ddccd2b848c"
           },
           {
             "sha": "3b38912bcbf4f7cf43c2d060b120b9c7c01d3d35",
             "date": "2024-11-13T17:56:57Z",
             "message": "[doc] update README.md",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/commit/3b38912bcbf4f7cf43c2d060b120b9c7c01d3d35"
+            "url": "https://github.com/706creators/walrus-co-learn/commit/3b38912bcbf4f7cf43c2d060b120b9c7c01d3d35"
           },
           {
             "sha": "1fda52d40256d1ad54e24a7385741f1dc7ca30ee",
             "date": "2024-11-12T03:02:53Z",
             "message": "[feat] add limited deposit coin type",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/commit/1fda52d40256d1ad54e24a7385741f1dc7ca30ee"
+            "url": "https://github.com/706creators/walrus-co-learn/commit/1fda52d40256d1ad54e24a7385741f1dc7ca30ee"
           },
           {
             "sha": "2894e21c06ab751519e91e6a58bea9ee75c3dc44",
             "date": "2024-11-11T17:12:56Z",
             "message": "[feat] modify withdraw logic",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/commit/2894e21c06ab751519e91e6a58bea9ee75c3dc44"
+            "url": "https://github.com/706creators/walrus-co-learn/commit/2894e21c06ab751519e91e6a58bea9ee75c3dc44"
           },
           {
             "sha": "89f67a6f83bf0fa352b23f2e9cd51c13ad3d3c9d",
             "date": "2024-11-11T16:29:48Z",
             "message": "[feat] add web framework",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/commit/89f67a6f83bf0fa352b23f2e9cd51c13ad3d3c9d"
+            "url": "https://github.com/706creators/walrus-co-learn/commit/89f67a6f83bf0fa352b23f2e9cd51c13ad3d3c9d"
           },
           {
             "sha": "bd69931017b950da884b27af19e45c2b22d7905c",
             "date": "2024-11-11T16:11:42Z",
             "message": "[feat] add points to NFT & modify withdraw logic",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/commit/bd69931017b950da884b27af19e45c2b22d7905c"
+            "url": "https://github.com/706creators/walrus-co-learn/commit/bd69931017b950da884b27af19e45c2b22d7905c"
           },
           {
             "sha": "b040679bdf7bf06dfe3df6fc3641829b99eb66f2",
             "date": "2024-11-11T04:48:50Z",
             "message": "[feat] white faucet contract",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/commit/b040679bdf7bf06dfe3df6fc3641829b99eb66f2"
+            "url": "https://github.com/706creators/walrus-co-learn/commit/b040679bdf7bf06dfe3df6fc3641829b99eb66f2"
           }
         ],
-        "pull_requests": [
-          {
-            "number": 3,
-            "title": "update doc",
-            "state": "closed",
-            "created_at": "2024-11-27T13:08:28Z",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/pull/3",
-            "labels": [],
-            "comments": 0
-          }
-        ],
+        "pull_requests": [],
         "total_commits": 18,
-        "total_prs": 1
+        "total_prs": 0
       },
       "issues": {
         "opened": [],
@@ -137,115 +127,15 @@
         "total_comments": 0
       }
     },
-    "summary": "Wulabalabo is a developer focusing on frontend development and project documentation. Their recent activity includes finishing the gallerylibrary and gallery site features, updating project README files, and addressing TypeScript errors. They demonstrate a pattern of actively contributing to frontend projects, improving documentation, and implementing new features.",
-    "score": 8,
+    "summary": "Wulabalabo is a developer currently focusing on frontend development and project documentation. They have recently completed features such as the gallery library and site, as well as uploading the gallery library to Walrus. Their contributions show a pattern of feature development and documentation updates, with a recent emphasis on finishing frontend components for a gallery project.",
+    "score": 0,
     "score_breakdown": {
-      "merged_prs": 7,
-      "issues": 0,
-      "pr_commits": 1,
-      "pr_reviews": 0,
-      "comments": 0.0,
-      "total": 8.0
-    }
-  },
-  {
-    "contributor": "lispking",
-    "avatar_url": "https://avatars.githubusercontent.com/u/4446580?v=4",
-    "activity": {
-      "code": {
-        "commits": [
-          {
-            "sha": "72410c844f78306bb474d6380dba2501abbcc39f",
-            "date": "2024-11-02T04:03:15Z",
-            "message": "adjust course 3 and 4 content",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/commit/72410c844f78306bb474d6380dba2501abbcc39f"
-          },
-          {
-            "sha": "34d04f0aa5de79ad07db2a6ce969130a84018463",
-            "date": "2024-11-02T04:01:14Z",
-            "message": "add course 3 and 4 links",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/commit/34d04f0aa5de79ad07db2a6ce969130a84018463"
-          }
-        ],
-        "pull_requests": [
-          {
-            "number": 1,
-            "title": "add course 3 and 4 links",
-            "state": "closed",
-            "created_at": "2024-11-02T04:01:33Z",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/pull/1",
-            "labels": [],
-            "comments": 0
-          }
-        ],
-        "total_commits": 2,
-        "total_prs": 1
-      },
-      "issues": {
-        "opened": [],
-        "total_opened": 0
-      },
-      "engagement": {
-        "comments": [],
-        "total_comments": 0
-      }
-    },
-    "summary": "lispking is currently focusing on adjusting and adding content for courses 3 and 4 in their GitHub repository. Their recent activity includes 2 commits and 1 pull request related to course materials. This indicates a focus on educational content development within their projects.",
-    "score": 7,
-    "score_breakdown": {
-      "merged_prs": 7,
+      "merged_prs": 0,
       "issues": 0,
       "pr_commits": 0,
       "pr_reviews": 0,
       "comments": 0.0,
-      "total": 7.0
-    }
-  },
-  {
-    "contributor": "kaichen",
-    "avatar_url": "https://avatars.githubusercontent.com/u/4048?v=4",
-    "activity": {
-      "code": {
-        "commits": [
-          {
-            "sha": "7562bd43b03423f42efd909140bdc3b4355c85c3",
-            "date": "2024-11-19T03:24:45Z",
-            "message": "feat: add dev container and setup script",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/commit/7562bd43b03423f42efd909140bdc3b4355c85c3"
-          }
-        ],
-        "pull_requests": [
-          {
-            "number": 2,
-            "title": "Add Dev Container",
-            "state": "closed",
-            "created_at": "2024-11-19T05:44:52Z",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/pull/2",
-            "labels": [],
-            "comments": 0
-          }
-        ],
-        "total_commits": 1,
-        "total_prs": 1
-      },
-      "issues": {
-        "opened": [],
-        "total_opened": 0
-      },
-      "engagement": {
-        "comments": [],
-        "total_comments": 0
-      }
-    },
-    "summary": "kaichen is currently focusing on setting up development environments efficiently, as seen in their recent commit and pull request to add a development container and setup script. Their contributions suggest a focus on streamlining development processes and enhancing project onboarding experiences. This indicates a pattern of attention to tooling and automation in their technical work.",
-    "score": 7,
-    "score_breakdown": {
-      "merged_prs": 7,
-      "issues": 0,
-      "pr_commits": 0,
-      "pr_reviews": 0,
-      "comments": 0.0,
-      "total": 7.0
+      "total": 0.0
     }
   },
   {
@@ -258,31 +148,31 @@
             "sha": "b6abdca47c223e71f8678d1ee43a2be67ccd8d68",
             "date": "2024-11-19T05:49:16Z",
             "message": "Merge pull request #2 from kaichen/setup-dev-container\n\nAdd Dev Container",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/commit/b6abdca47c223e71f8678d1ee43a2be67ccd8d68"
+            "url": "https://github.com/706creators/walrus-co-learn/commit/b6abdca47c223e71f8678d1ee43a2be67ccd8d68"
           },
           {
             "sha": "384d6fb6734d20aeffa9c7eabe3d8f1a87d267f5",
             "date": "2024-11-14T01:06:52Z",
             "message": "Update README.md",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/commit/384d6fb6734d20aeffa9c7eabe3d8f1a87d267f5"
+            "url": "https://github.com/706creators/walrus-co-learn/commit/384d6fb6734d20aeffa9c7eabe3d8f1a87d267f5"
           },
           {
             "sha": "3c8fc974f5d9b16b930f44894a4bf4f8506fa808",
             "date": "2024-11-02T04:56:12Z",
             "message": "Merge pull request #1 from CreatorsDAO/course",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/commit/3c8fc974f5d9b16b930f44894a4bf4f8506fa808"
+            "url": "https://github.com/706creators/walrus-co-learn/commit/3c8fc974f5d9b16b930f44894a4bf4f8506fa808"
           },
           {
             "sha": "5fa29147e1ff561db994e484bc4d31837fe1f0a0",
             "date": "2024-10-31T10:50:49Z",
             "message": "Update README.md",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/commit/5fa29147e1ff561db994e484bc4d31837fe1f0a0"
+            "url": "https://github.com/706creators/walrus-co-learn/commit/5fa29147e1ff561db994e484bc4d31837fe1f0a0"
           },
           {
             "sha": "421bd5d61ae28d34f3ff1f3389b3d17320ce180c",
             "date": "2024-10-31T10:50:03Z",
             "message": "Initial commit",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/commit/421bd5d61ae28d34f3ff1f3389b3d17320ce180c"
+            "url": "https://github.com/706creators/walrus-co-learn/commit/421bd5d61ae28d34f3ff1f3389b3d17320ce180c"
           }
         ],
         "pull_requests": [],
@@ -298,7 +188,7 @@
         "total_comments": 0
       }
     },
-    "summary": "v1xingyue is a developer who recently focused on setting up a development container, updating README files, and collaborating on project setups with other contributors. Their recent commits indicate a strong emphasis on project initialization and documentation improvements, showcasing a dedication to establishing solid project foundations and clear communication within the team.",
+    "summary": "v1xingyue is a developer who recently added a Dev Container to a project, updated README.md files, and made an initial commit. Their focus appears to be on project setup and documentation improvements. Their contributions suggest a pattern of establishing project environments and enhancing project documentation for clarity and accessibility.",
     "score": 0,
     "score_breakdown": {
       "merged_prs": 0,
@@ -319,25 +209,25 @@
             "sha": "c5bc7b07e3a99c215f38c5a60568870c4531aca7",
             "date": "2024-11-27T12:59:36Z",
             "message": "Update README.md",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/commit/c5bc7b07e3a99c215f38c5a60568870c4531aca7"
+            "url": "https://github.com/706creators/walrus-co-learn/commit/c5bc7b07e3a99c215f38c5a60568870c4531aca7"
           },
           {
             "sha": "a53fd5bd9601391e3e0e5563176dcbf8b4dbf8e5",
             "date": "2024-11-27T12:58:58Z",
             "message": "Update README.md",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/commit/a53fd5bd9601391e3e0e5563176dcbf8b4dbf8e5"
+            "url": "https://github.com/706creators/walrus-co-learn/commit/a53fd5bd9601391e3e0e5563176dcbf8b4dbf8e5"
           },
           {
             "sha": "dfe051f8421707447744f9096b5bc7fac3f0a49f",
             "date": "2024-11-21T04:52:42Z",
             "message": "Update README.md",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/commit/dfe051f8421707447744f9096b5bc7fac3f0a49f"
+            "url": "https://github.com/706creators/walrus-co-learn/commit/dfe051f8421707447744f9096b5bc7fac3f0a49f"
           },
           {
             "sha": "fe2be14ba0876047366f68b5d1631b94980d6739",
             "date": "2024-11-15T02:01:45Z",
             "message": "Update README.md",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/commit/fe2be14ba0876047366f68b5d1631b94980d6739"
+            "url": "https://github.com/706creators/walrus-co-learn/commit/fe2be14ba0876047366f68b5d1631b94980d6739"
           }
         ],
         "pull_requests": [],
@@ -353,7 +243,87 @@
         "total_comments": 0
       }
     },
-    "summary": "wufen771 is currently focused on updating the README.md file in their repository, with a total of 4 commits dedicated to this task. Their recent activity suggests a focus on documentation and ensuring clear project information for users and contributors. It would be beneficial to see more diverse contributions from wufen771 to gain a better understanding of their technical skills and interests.",
+    "summary": "wufen771 is actively updating the README.md file in their repository, demonstrating a focus on documentation and project information. Their recent commits suggest a dedication to maintaining clear and up-to-date project documentation. Further exploration of their repository content may reveal additional technical contributions and areas of expertise.",
+    "score": 0,
+    "score_breakdown": {
+      "merged_prs": 0,
+      "issues": 0,
+      "pr_commits": 0,
+      "pr_reviews": 0,
+      "comments": 0.0,
+      "total": 0.0
+    }
+  },
+  {
+    "contributor": "lispking",
+    "avatar_url": "https://avatars.githubusercontent.com/u/4446580?v=4",
+    "activity": {
+      "code": {
+        "commits": [
+          {
+            "sha": "72410c844f78306bb474d6380dba2501abbcc39f",
+            "date": "2024-11-02T04:03:15Z",
+            "message": "adjust course 3 and 4 content",
+            "url": "https://github.com/706creators/walrus-co-learn/commit/72410c844f78306bb474d6380dba2501abbcc39f"
+          },
+          {
+            "sha": "34d04f0aa5de79ad07db2a6ce969130a84018463",
+            "date": "2024-11-02T04:01:14Z",
+            "message": "add course 3 and 4 links",
+            "url": "https://github.com/706creators/walrus-co-learn/commit/34d04f0aa5de79ad07db2a6ce969130a84018463"
+          }
+        ],
+        "pull_requests": [],
+        "total_commits": 2,
+        "total_prs": 0
+      },
+      "issues": {
+        "opened": [],
+        "total_opened": 0
+      },
+      "engagement": {
+        "comments": [],
+        "total_comments": 0
+      }
+    },
+    "summary": "lispking is currently focusing on adjusting and adding content for courses 3 and 4 in their GitHub repository. Their recent commits indicate a concentration on educational material development within the project. It seems that lispking's contributions are centered around enhancing course content, suggesting a focus on educational resources and possibly instructional design.",
+    "score": 0,
+    "score_breakdown": {
+      "merged_prs": 0,
+      "issues": 0,
+      "pr_commits": 0,
+      "pr_reviews": 0,
+      "comments": 0.0,
+      "total": 0.0
+    }
+  },
+  {
+    "contributor": "kaichen",
+    "avatar_url": "https://avatars.githubusercontent.com/u/4048?v=4",
+    "activity": {
+      "code": {
+        "commits": [
+          {
+            "sha": "7562bd43b03423f42efd909140bdc3b4355c85c3",
+            "date": "2024-11-19T03:24:45Z",
+            "message": "feat: add dev container and setup script",
+            "url": "https://github.com/706creators/walrus-co-learn/commit/7562bd43b03423f42efd909140bdc3b4355c85c3"
+          }
+        ],
+        "pull_requests": [],
+        "total_commits": 1,
+        "total_prs": 0
+      },
+      "issues": {
+        "opened": [],
+        "total_opened": 0
+      },
+      "engagement": {
+        "comments": [],
+        "total_comments": 0
+      }
+    },
+    "summary": "kaichen is currently focusing on setting up development environments efficiently, as seen in their recent commit adding a development container and setup script. This suggests a focus on improving developer workflows and project onboarding processes. Their contribution pattern indicates a commitment to enhancing project maintainability and collaboration through standardized development setups.",
     "score": 0,
     "score_breakdown": {
       "merged_prs": 0,
@@ -374,7 +344,7 @@
             "sha": "47e18747627c88bb84c8b19c24441387518c4f58",
             "date": "2024-11-14T11:14:09Z",
             "message": "Update README.md",
-            "url": "https://github.com/CreatorsDAO/walrus-co-learn/commit/47e18747627c88bb84c8b19c24441387518c4f58"
+            "url": "https://github.com/706creators/walrus-co-learn/commit/47e18747627c88bb84c8b19c24441387518c4f58"
           }
         ],
         "pull_requests": [],
@@ -390,7 +360,7 @@
         "total_comments": 0
       }
     },
-    "summary": "jeffierw is currently updating the README.md file in their repository. Their recent activity suggests a focus on documentation and ensuring project information is up to date. While this contribution is small in scale, it indicates a meticulous approach to maintaining project documentation.",
+    "summary": "jeffierw is currently updating the README.md file in their GitHub repository. Their technical focus appears to be on documentation and project maintenance. This contribution suggests a meticulous approach to keeping project information up-to-date and accessible to users.",
     "score": 0,
     "score_breakdown": {
       "merged_prs": 0,
